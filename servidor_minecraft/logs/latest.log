@@ -5498,3 +5498,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Feb2025 04:53:56.960] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23d576dd[id=7a6d05ea-f898-4824-9754-26bd3968ab2f,name=SasukeUchiha7w7,properties={textures=[com.mojang.authlib.properties.Property@30c83724]},legacy=false] (/127.157.150.51:42695) lost connection: Connection closed - mismatched mod channel list
 [18Feb2025 04:56:44.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
 [18Feb2025 04:56:44.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[18Feb2025 05:02:35.730] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[18Feb2025 05:02:43.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SasukeUchiha7w7[/127.157.150.51:51089] logged in with entity id 4062 at (-2424.700088539449, 69.0, -1613.1930248626884)
+[18Feb2025 05:02:43.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 joined the game
+[18Feb2025 05:02:43.513] [Server thread/INFO] [Jade/]: Syncing config to SasukeUchiha7w7 (7a6d05ea-f898-4824-9754-26bd3968ab2f)
+[18Feb2025 05:03:52.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2427.500000, 75.500000, -1612.500000]
+[18Feb2025 05:05:25.440] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FilthyDread is 1fb0894e-1ad3-498f-b2b9-2e840907cc42
+[18Feb2025 05:05:30.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FilthyDread[/127.168.199.141:57855] logged in with entity id 5158 at (-364.69999998807907, 57.0, -148.76354783822168)
+[18Feb2025 05:05:30.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread joined the game
+[18Feb2025 05:05:31.066] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
+[18Feb2025 05:06:27.831] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[18Feb2025 05:06:33.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.61.139.178:51405] logged in with entity id 5770 at (-2379.2655526266603, 65.0, -1578.0690226538952)
+[18Feb2025 05:06:33.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[18Feb2025 05:06:33.839] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[18Feb2025 05:11:06.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -309.500000, 54.500000, -195.500000]
+[18Feb2025 05:14:19.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> connected glass
+[18Feb2025 05:14:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2426.500000, 75.500000, -1611.500000]
+[18Feb2025 05:15:20.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2425.500000, 80.500000, -1610.500000]
+[18Feb2025 05:16:01.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2427.500000, 75.500000, -1609.500000]
+[18Feb2025 05:16:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[18Feb2025 05:16:42.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[18Feb2025 05:17:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[18Feb2025 05:17:35.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [We Need to Go Deeper]
+[18Feb2025 05:17:35.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[18Feb2025 05:17:48.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[18Feb2025 05:18:30.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2383, y=64, z=-1606} BlockPos{x=-2382, y=62, z=-1605}
+[18Feb2025 05:18:31.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2383, y=64, z=-1606} BlockPos{x=-2382, y=62, z=-1605}
+[18Feb2025 05:18:31.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2383, y=64, z=-1606} BlockPos{x=-2382, y=62, z=-1605}
+[18Feb2025 05:18:31.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2384, y=63, z=-1606} BlockPos{x=-2382, y=62, z=-1605}
+[18Feb2025 05:18:31.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2384, y=63, z=-1606} BlockPos{x=-2382, y=62, z=-1605}
+[18Feb2025 05:18:31.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2384, y=63, z=-1606} BlockPos{x=-2382, y=62, z=-1605}
+[18Feb2025 05:19:01.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2382, y=64, z=-1608} BlockPos{x=-2384, y=62, z=-1607}
+[18Feb2025 05:19:11.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2382, y=64, z=-1606} BlockPos{x=-2381, y=62, z=-1605}
+[18Feb2025 05:19:11.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2382, y=64, z=-1606} BlockPos{x=-2381, y=62, z=-1605}
+[18Feb2025 05:19:11.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2383, y=63, z=-1607} BlockPos{x=-2381, y=62, z=-1608}
+[18Feb2025 05:19:50.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[18Feb2025 05:21:16.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2426.500000, 75.500000, -1610.500000]
+[18Feb2025 05:22:18.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -1741.500000, 115.500000, -817.500000]
+[18Feb2025 05:22:43.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -3175.500000, 66.500000, -703.500000]
+[18Feb2025 05:23:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -3258.500000, 71.500000, -786.500000]
+[18Feb2025 05:23:40.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[18Feb2025 05:24:07.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -3250.500000, 72.500000, -778.500000]
+[18Feb2025 05:24:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -3268.500000, 81.500000, -801.500000]
+[18Feb2025 05:25:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -3114.500000, 80.500000, -820.500000]
+[18Feb2025 05:26:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2996.500000, 64.500000, -868.500000]
+[18Feb2025 05:26:34.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -3051.500000, 78.500000, -873.500000]
+[18Feb2025 05:27:18.259] [pool-12-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-2997, y=74, z=-587}
+[18Feb2025 05:27:18.642] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2997, y=74, z=-587} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[18Feb2025 05:27:18.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-2997, y=74, z=-587}
+[18Feb2025 05:27:30.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -3079.500000, 70.500000, -756.500000]
+[18Feb2025 05:28:14.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Not Quite Like a Fence]
+[18Feb2025 05:28:34.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2427.500000, 75.500000, -1608.500000]
+[18Feb2025 05:29:04.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[18Feb2025 05:33:09.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]
+[18Feb2025 05:39:02.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 fell from a high place
