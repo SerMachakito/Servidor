@@ -43,6 +43,7 @@
       "maple_woods": "2025-02-14 08:26:32 +0000",
       "forested_field": "2025-02-14 08:16:32 +0000",
       "dune_beach": "2025-02-14 08:49:36 +0000",
+      "pasture": "2025-02-18 05:57:05 +0000",
       "lavender_field": "2025-02-15 02:16:44 +0000",
       "grassland": "2025-02-14 08:39:24 +0000",
       "glowing_grotto": "2025-02-14 08:28:02 +0000",
@@ -5999,9 +6000,21 @@
     },
     "done": true
   },
+  "adorn:recipes/black_candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2025-02-18 05:58:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-18 05:49:44 +0000"
     },
     "done": true
   },
@@ -6011,9 +6024,21 @@
     },
     "done": true
   },
+  "adorn:recipes/andesite_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 05:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 05:56:02 +0000"
     },
     "done": true
   },
@@ -6032,6 +6057,12 @@
   "decorative_blocks:recipes/decorations/chandelier": {
     "criteria": {
       "has_torch": "2025-02-18 05:29:03 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 05:58:28 +0000"
     },
     "done": true
   },
@@ -6125,6 +6156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-18 05:49:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
@@ -6143,9 +6180,27 @@
     },
     "done": true
   },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-02-18 05:58:27 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 05:56:02 +0000"
     },
     "done": true
   },
@@ -6167,6 +6222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-18 05:49:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
@@ -6182,6 +6243,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/chain": {
+    "criteria": {
+      "has_ingot": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 05:56:02 +0000"
     },
     "done": true
   },
@@ -6209,6 +6282,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/bar_panel": {
+    "criteria": {
+      "has_ingot": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/brown_curtain": {
     "criteria": {
       "has_wool": "2025-02-18 05:24:11 +0000"
@@ -6227,9 +6306,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-18 05:49:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_andesite_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 05:58:21 +0000"
     },
     "done": true
   },
@@ -6242,6 +6333,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_andesite_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 05:58:21 +0000"
     },
     "done": true
   },
@@ -6335,9 +6432,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-18 05:49:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-02-18 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-02-18 05:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-18 05:49:44 +0000"
     },
     "done": true
   },
