@@ -9452,6 +9452,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-02-18 06:59:23 +0000"
+    },
+    "done": false
+  },
   "decorative_blocks:recipes/building_blocks/lattice": {
     "criteria": {
       "has_stick": "2025-02-18 05:06:30 +0000"
@@ -9485,6 +9491,12 @@
   "connectedglass:recipes/misc/borderless_glass_light_gray2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:14:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-02-18 06:58:18 +0000"
     },
     "done": true
   },
@@ -9530,6 +9542,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-02-18 06:57:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
       "has_item": "2025-02-18 06:00:31 +0000"
@@ -9551,6 +9569,12 @@
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-02-18 05:28:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-02-18 06:57:41 +0000"
     },
     "done": true
   },
@@ -9581,6 +9605,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-02-18 06:00:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-02-18 06:57:41 +0000"
     },
     "done": true
   },
@@ -9659,6 +9689,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-18 05:51:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-02-18 06:57:41 +0000"
     },
     "done": true
   },
@@ -9749,6 +9785,12 @@
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-02-18 05:54:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2025-02-18 06:54:53 +0000"
     },
     "done": true
   },
