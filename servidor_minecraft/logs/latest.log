@@ -5627,3 +5627,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Feb2025 06:19:47.453] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
 [18Feb2025 06:19:58.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was turned to ice by Ice Dragon
 [18Feb2025 06:20:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[18Feb2025 06:21:39.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Cuteness Overload]
+[18Feb2025 06:21:46.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 blew up
+[18Feb2025 06:22:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2425.500000, 75.500000, -1610.500000]
+[18Feb2025 06:24:24.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [What a Deal!]
+[18Feb2025 06:24:45.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[18Feb2025 06:28:23.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Saved the game]

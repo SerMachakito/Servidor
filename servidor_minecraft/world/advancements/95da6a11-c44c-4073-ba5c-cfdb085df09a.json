@@ -7343,6 +7343,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_orange2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:11:57 +0000"
@@ -7370,6 +7376,12 @@
   "adorn:recipes/biomesoplenty/redwood_shelf": {
     "criteria": {
       "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -7421,6 +7433,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "dramaticdoors:recipes/redstone/short_birch_door": {
     "criteria": {
       "has_items": "2025-02-18 05:22:42 +0000"
@@ -7433,9 +7457,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cherry_flower_box": {
     "criteria": {
       "has_slab": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -7499,9 +7535,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-02-18 06:02:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -7655,6 +7709,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/cherry_seat": {
     "criteria": {
       "has_plank": "2025-02-18 05:58:23 +0000"
@@ -7670,6 +7730,12 @@
   "connectedglass:recipes/misc/borderless_glass_pink2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:11:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -7709,6 +7775,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_cherry": {
     "criteria": {
       "has_the_recipe": "2025-02-18 05:58:23 +0000"
@@ -7721,15 +7793,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cherry_table": {
     "criteria": {
       "has_planks": "2025-02-18 05:58:23 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/service_bell": {
     "criteria": {
       "has_nugget": "2025-02-18 05:30:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -7793,6 +7895,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/biomesoplenty/redwood_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-02-18 06:09:49 +0000"
@@ -7802,6 +7922,12 @@
   "decorative_blocks:recipes/building_blocks/jungle_support": {
     "criteria": {
       "has_plank": "2025-02-18 05:15:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -7847,6 +7973,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "portablemobs:basiccelladvancement": {
     "criteria": {
       "basiccell": "2025-02-18 05:55:09 +0000"
@@ -7862,6 +8000,18 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-02-18 06:07:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -7919,6 +8069,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/biomesoplenty/redwood_table": {
     "criteria": {
       "has_slab": "2025-02-18 06:11:11 +0000"
@@ -7961,6 +8117,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/cherry_palisade": {
     "criteria": {
       "has_log": "2025-02-18 05:57:22 +0000"
@@ -7979,6 +8141,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2025-02-18 06:06:00 +0000"
@@ -7988,6 +8156,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-02-18 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -8027,6 +8201,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-02-18 06:09:49 +0000"
@@ -8057,6 +8237,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
     "criteria": {
       "has_planks": "2025-02-18 06:09:49 +0000"
@@ -8072,6 +8258,24 @@
   "adorn:recipes/cherry_post": {
     "criteria": {
       "has_cherry_planks": "2025-02-18 05:58:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
@@ -8102,6 +8306,18 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-18 05:58:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:20:50 +0000"
     },
     "done": true
   },
