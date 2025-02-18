@@ -7325,9 +7325,21 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/redwood_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
   "portablemobs:captureadvancement": {
     "criteria": {
       "capture": "2025-02-18 05:55:29 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 06:07:25 +0000"
     },
     "done": true
   },
@@ -7337,15 +7349,51 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/redwood_post": {
+    "criteria": {
+      "has_redwood_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-02-18 05:58:23 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/redwood_shelf": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shutter": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-02-18 05:57:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-02-18 06:09:46 +0000"
     },
     "done": true
   },
@@ -7361,6 +7409,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 06:07:25 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/jungle_palisade": {
     "criteria": {
       "has_log": "2025-02-18 05:15:23 +0000"
@@ -7373,9 +7427,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_flower_box": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-02-18 05:58:23 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cherry_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cherry_table": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
     },
     "done": true
   },
@@ -7391,9 +7469,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-18 06:07:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/redwood_chair": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_light_gray2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:11:57 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_drawer": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:06:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-02-18 06:02:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-18 06:07:25 +0000"
     },
     "done": true
   },
@@ -7403,9 +7517,21 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/jacaranda_table": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-18 05:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-18 06:14:36 +0000"
     },
     "done": true
   },
@@ -7421,9 +7547,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-18 06:07:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-18 05:17:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
     },
     "done": true
   },
@@ -7439,9 +7577,21 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/redwood_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
   "portablemobs:recipes/misc/master_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-02-18 05:55:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-02-18 06:02:44 +0000"
     },
     "done": true
   },
@@ -7457,15 +7607,45 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/redwood_drawer": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_purple2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:11:57 +0000"
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/redwood_bench": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/brown_sofa": {
     "criteria": {
       "has_wool": "2025-02-18 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
     },
     "done": true
   },
@@ -7481,9 +7661,51 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/redwood_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_pink2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:11:57 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cherry_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-02-18 06:09:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
+    "criteria": {
+      "has_item": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
     },
     "done": true
   },
@@ -7517,9 +7739,39 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/jacaranda_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:06:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-02-18 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_bench": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:06:08 +0000"
     },
     "done": true
   },
@@ -7538,6 +7790,12 @@
   "connectedglass:recipes/misc/borderless_glass_black2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:11:57 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/redwood_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
     },
     "done": true
   },
@@ -7571,6 +7829,18 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/redwood_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_chair": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:06:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 05:30:17 +0000"
@@ -7580,6 +7850,24 @@
   "portablemobs:basiccelladvancement": {
     "criteria": {
       "basiccell": "2025-02-18 05:55:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cherry_shelf": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-18 06:07:00 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cherry_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
     },
     "done": true
   },
@@ -7613,6 +7901,12 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/jacaranda_shelf": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:06:08 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_blue2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:11:57 +0000"
@@ -7622,6 +7916,30 @@
   "cfm:recipes/decorations/brown_sofa": {
     "criteria": {
       "has_wool": "2025-02-18 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/redwood_table": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_post": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cherry_chair": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
     },
     "done": true
   },
@@ -7649,9 +7967,21 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/redwood_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:11:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-02-18 05:58:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
     },
     "done": true
   },
@@ -7679,6 +8009,12 @@
     },
     "done": true
   },
+  "adorn:recipes/cherry_bench": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-02-18 05:58:23 +0000"
@@ -7688,6 +8024,24 @@
   "another_furniture:recipes/brown_lamp": {
     "criteria": {
       "has_wool": "2025-02-18 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-18 06:07:25 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_bench": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
     },
     "done": true
   },
@@ -7703,6 +8057,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/cherry_post": {
     "criteria": {
       "has_cherry_planks": "2025-02-18 05:58:23 +0000"
@@ -7715,6 +8081,18 @@
     },
     "done": true
   },
+  "adorn:recipes/cherry_drawer": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:02:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/cherry_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2025-02-18 05:58:23 +0000"
@@ -7724,6 +8102,12 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-18 05:58:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-18 06:07:46 +0000"
     },
     "done": true
   },
@@ -7757,6 +8141,12 @@
     },
     "done": true
   },
+  "adorn:recipes/biomesoplenty/jacaranda_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:06:08 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_pane1": {
     "criteria": {
       "recipe_condition": "2025-02-18 05:22:27 +0000"
@@ -7766,6 +8156,30 @@
   "connectedglass:recipes/misc/borderless_glass_pane3": {
     "criteria": {
       "recipe_condition": "2025-02-18 05:11:57 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:06:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:06:00 +0000"
     },
     "done": true
   },
