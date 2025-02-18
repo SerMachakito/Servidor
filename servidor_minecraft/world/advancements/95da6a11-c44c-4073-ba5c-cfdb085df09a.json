@@ -8075,6 +8075,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-02-18 06:37:39 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/biomesoplenty/redwood_table": {
     "criteria": {
       "has_slab": "2025-02-18 06:11:11 +0000"

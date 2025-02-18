@@ -9458,6 +9458,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-02-18 06:32:12 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_red2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:14:25 +0000"
@@ -9572,6 +9578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-18 06:37:34 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_purple2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:14:25 +0000"
@@ -9620,6 +9632,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-02-18 06:31:20 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-02-18 05:17:56 +0000"
@@ -9641,6 +9659,12 @@
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2025-02-18 05:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-18 06:37:34 +0000"
     },
     "done": true
   },
@@ -9848,6 +9872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-18 06:37:34 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_green2": {
     "criteria": {
       "recipe_condition1": "2025-02-18 05:14:25 +0000"
@@ -9944,6 +9974,12 @@
     },
     "done": true
   },
+  "adorn:recipes/smooth_stone_post": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-18 06:37:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-02-18 05:46:01 +0000"
@@ -9959,6 +9995,12 @@
   "connectedglass:recipes/misc/clear_glass1": {
     "criteria": {
       "recipe_condition": "2025-02-18 05:14:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-02-18 06:32:12 +0000"
     },
     "done": true
   },
