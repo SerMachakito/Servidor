@@ -5485,3 +5485,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Feb2025 04:40:24.749] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [18Feb2025 04:40:24.749] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [18Feb2025 04:40:24.750] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[18Feb2025 04:50:48.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[18Feb2025 04:50:48.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[18Feb2025 04:52:12.521] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[18Feb2025 04:52:17.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.61.139.178:60717] logged in with entity id 2162 at (-2381.0905440605106, 71.5625, -1591.2398917922787)
+[18Feb2025 04:52:17.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[18Feb2025 04:52:17.985] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[18Feb2025 04:52:52.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[18Feb2025 04:53:56.468] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[18Feb2025 04:53:56.924] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [friendsandfoes:networking,sereneseasons:main_channel,modernlife:network,cosmeticarmorreworked:main] rejected their client side version number
+[18Feb2025 04:53:56.924] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[18Feb2025 04:53:56.960] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23d576dd[id=7a6d05ea-f898-4824-9754-26bd3968ab2f,name=SasukeUchiha7w7,properties={textures=[com.mojang.authlib.properties.Property@30c83724]},legacy=false] (/127.157.150.51:42695) lost connection: Connection closed - mismatched mod channel list
+[18Feb2025 04:56:44.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[18Feb2025 04:56:44.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
