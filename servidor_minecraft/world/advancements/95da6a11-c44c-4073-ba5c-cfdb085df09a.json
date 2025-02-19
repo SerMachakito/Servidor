@@ -8543,6 +8543,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-02-19 02:43:37 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/biomesoplenty/mahogany_table": {
     "criteria": {
       "has_slab": "2025-02-19 02:52:23 +0000"
@@ -8567,18 +8573,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_bone_meal": "2025-02-19 02:43:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-02-19 03:07:03 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/biomesoplenty/mahogany_chair": {
     "criteria": {
       "has_slab": "2025-02-19 02:52:23 +0000"
@@ -8600,6 +8594,12 @@
   "adorn:recipes/biomesoplenty/mahogany_bench": {
     "criteria": {
       "has_slab": "2025-02-19 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-19 03:07:03 +0000"
     },
     "done": true
   },
