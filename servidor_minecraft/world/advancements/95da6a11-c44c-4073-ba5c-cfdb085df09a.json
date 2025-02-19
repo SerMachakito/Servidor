@@ -8573,6 +8573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-19 03:07:03 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/biomesoplenty/mahogany_chair": {
     "criteria": {
       "has_slab": "2025-02-19 02:52:23 +0000"
