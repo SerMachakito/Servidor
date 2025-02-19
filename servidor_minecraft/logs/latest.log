@@ -3480,3 +3480,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 04:20:07.101] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
 [19Feb2025 04:21:01.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to Kortight]
 [19Feb2025 04:21:04.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[19Feb2025 04:26:05.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityRaccoon['Rigby'/174, l='ServerLevel[world]', x=-2366.27, y=103.14, z=-1495.74] died: Rigby was slain by RnsRiven
+[19Feb2025 04:27:16.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[19Feb2025 04:27:42.058] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[19Feb2025 04:27:47.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Enchanter]
+[19Feb2025 04:27:50.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SasukeUchiha7w7[/127.157.150.51:37497] logged in with entity id 6707 at (-19436.221253614505, 6.0, -13265.504429740991)
+[19Feb2025 04:27:50.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 joined the game
+[19Feb2025 04:27:50.915] [Server thread/INFO] [Jade/]: Syncing config to SasukeUchiha7w7 (7a6d05ea-f898-4824-9754-26bd3968ab2f)
+[19Feb2025 04:28:05.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Made RnsRiven a server operator]
+[19Feb2025 04:28:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[19Feb2025 04:28:58.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[19Feb2025 04:28:59.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread moved too quickly! 9.31851528967627,-0.16610926093821377,-4.1262482130152875
+[19Feb2025 04:29:05.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO fell from a high place
+[19Feb2025 04:29:13.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
+[19Feb2025 04:29:25.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2425.500000, 75.500000, -1610.500000]
+[19Feb2025 04:29:39.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[19Feb2025 04:30:19.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to 1188.500000, 64.500000, 3244.500000]
+[19Feb2025 04:30:19.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3358ms or 67 ticks behind
+[19Feb2025 04:30:19.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread moved too quickly! -9.086841788724541,-0.15233518685055003,4.322533865693458
+[19Feb2025 04:30:20.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> xaero-waypoint:Shared Location:S:-4408:95:-2658:10:false:0:Internal-overworld-waypoints
+[19Feb2025 04:30:34.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
+[19Feb2025 04:30:45.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to 1049.500000, 63.500000, 3209.500000]
+[19Feb2025 04:31:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to 922.500000, 67.500000, 3321.500000]
+[19Feb2025 04:31:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[19Feb2025 04:32:01.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
+[19Feb2025 04:32:13.851] [pool-12-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-2725, y=68, z=-1093}
+[19Feb2025 04:32:14.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2725, y=68, z=-1093} but found not block entity block Block{minecraft:stripped_spruce_log}[axis=y] at location
+[19Feb2025 04:32:14.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stripped_spruce_log}[axis=y] but failed at location BlockPos{x=-2725, y=68, z=-1093}
+[19Feb2025 04:32:16.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Minecraft Comes Alive]
+[19Feb2025 04:32:19.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2416.500000, 70.500000, -1548.500000]
+[19Feb2025 04:32:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Crops of the Wild]
+[19Feb2025 04:32:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]

@@ -10058,5 +10058,17 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/decorations/mahogany_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-19 04:25:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-02-19 04:25:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
