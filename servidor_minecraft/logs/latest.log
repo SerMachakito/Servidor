@@ -3473,3 +3473,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 06:31:54.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2308.500000, 63.500000, -593.500000]
 [19Feb2025 06:32:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Mine? Mine? Mine?]
 [19Feb2025 06:32:09.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2419.500000, 123.500000, -1609.500000]
+[19Feb2025 06:37:03.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2513.500000, 64.500000, -1593.500000]
+[19Feb2025 06:37:21.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2417.500000, 63.500000, -1610.500000]
+[19Feb2025 06:38:27.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Set own game mode to Creative Mode]
+[19Feb2025 06:38:51.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[19Feb2025 06:40:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[19Feb2025 06:41:31.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Set own game mode to Survival Mode]
+[19Feb2025 06:41:53.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2421.500000, 75.500000, -1582.500000]
+[19Feb2025 06:43:43.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[19Feb2025 06:44:20.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[19Feb2025 06:44:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2418.500000, 123.500000, -1611.500000]
+[19Feb2025 06:47:32.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -4263.500000, 57.500000, 391.500000]
+[19Feb2025 06:47:39.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2421.500000, 75.500000, -1582.500000]
+[19Feb2025 06:49:47.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Fishy Business]
+[19Feb2025 06:50:29.883] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FilthyDread is 1fb0894e-1ad3-498f-b2b9-2e840907cc42
+[19Feb2025 06:50:34.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FilthyDread[/127.168.199.141:34527] logged in with entity id 6268 at (-2378.1583352773623, 52.0, -1587.8294273544882)
+[19Feb2025 06:50:34.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread joined the game
+[19Feb2025 06:50:34.688] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
+[19Feb2025 06:52:27.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]
