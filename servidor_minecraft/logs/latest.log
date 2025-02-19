@@ -3475,3 +3475,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 02:36:50.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2422, y=54, z=-1586} BlockPos{x=-2422, y=55, z=-1586}
 [19Feb2025 02:36:50.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2421, y=56, z=-1586} BlockPos{x=-2421, y=54, z=-1586}
 [19Feb2025 02:42:29.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[19Feb2025 03:19:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set the time to 13000]
+[19Feb2025 03:20:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set the time to 18000]
