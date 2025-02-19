@@ -3491,3 +3491,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 06:50:34.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread joined the game
 [19Feb2025 06:50:34.688] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
 [19Feb2025 06:52:27.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]
+[19Feb2025 06:57:43.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2419.500000, 123.500000, -1610.500000]
+[19Feb2025 06:59:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> zzzzzzzzzzzzzzzzzz
+[19Feb2025 07:02:49.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Tables Made Fancier]
+[19Feb2025 07:05:04.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -4270.500000, 94.500000, 468.500000]
+[19Feb2025 07:05:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -3199.500000, 80.500000, -2247.500000]
+[19Feb2025 07:05:22.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kortight moved too quickly! 0.08126538972101116,-2.035840625044557,-9.816137096753891
