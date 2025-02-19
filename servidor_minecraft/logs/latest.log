@@ -3471,3 +3471,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 02:15:07.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.61.139.178:54039] logged in with entity id 6991 at (-2387.3870439673215, 65.0, -1590.9026861689265)
 [19Feb2025 02:15:07.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
 [19Feb2025 02:15:07.859] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[19Feb2025 02:29:57.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]

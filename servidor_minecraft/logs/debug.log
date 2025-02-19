@@ -12386,3 +12386,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 02:17:42.327] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
 [19Feb2025 02:18:40.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Feb2025 02:18:40.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 02:23:40.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 02:23:40.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 02:28:40.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 02:28:40.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 02:29:14.449] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/9897, l='ServerLevel[world]', x=-2413.64, y=66.51, z=-1544.49], dimensionLocationPath overworld
+[19Feb2025 02:29:14.449] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/9897, l='ServerLevel[world]', x=-2413.64, y=66.51, z=-1544.49] in list []
+[19Feb2025 02:29:15.199] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/9897, l='ServerLevel[world]', x=-2415.64, y=65.69, z=-1541.72, removed=DISCARDED]
+[19Feb2025 02:29:25.961] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/6991, l='ServerLevel[world]', x=-2416.10, y=65.00, z=-1542.00], dimensionLocationPath overworld
+[19Feb2025 02:29:25.961] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/6991, l='ServerLevel[world]', x=-2416.10, y=65.00, z=-1542.00] in list []
+[19Feb2025 02:29:31.909] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/6991, l='ServerLevel[world]', x=-2417.39, y=66.25, z=-1537.82]
+[19Feb2025 02:29:57.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
