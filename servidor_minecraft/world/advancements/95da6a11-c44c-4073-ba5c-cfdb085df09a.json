@@ -8537,5 +8537,11 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/tall_bop_mahogany_door": {
+    "criteria": {
+      "has_the_recipe": "2025-02-19 02:01:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

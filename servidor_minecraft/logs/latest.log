@@ -3453,3 +3453,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 01:39:02.276] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [19Feb2025 01:39:02.276] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [19Feb2025 01:39:02.277] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Feb2025 02:09:58.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[19Feb2025 02:09:58.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[19Feb2025 02:10:56.839] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[19Feb2025 02:11:01.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.61.139.178:49183] logged in with entity id 6111 at (-2414.000336757577, 65.0, -1542.9684554146552)
+[19Feb2025 02:11:01.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[19Feb2025 02:11:01.880] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[19Feb2025 02:11:21.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[19Feb2025 02:11:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[19Feb2025 02:12:18.690] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
