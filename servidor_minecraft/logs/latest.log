@@ -3462,3 +3462,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 02:11:21.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
 [19Feb2025 02:11:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
 [19Feb2025 02:12:18.690] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[19Feb2025 02:12:23.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.61.139.178:36367] logged in with entity id 6507 at (-2413.5128363512576, 65.0, -1538.3764988224807)
+[19Feb2025 02:12:24.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[19Feb2025 02:12:24.075] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[19Feb2025 02:13:04.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[19Feb2025 02:13:04.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[19Feb2025 02:15:02.539] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[19Feb2025 02:15:07.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.61.139.178:54039] logged in with entity id 6991 at (-2387.3870439673215, 65.0, -1590.9026861689265)
+[19Feb2025 02:15:07.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[19Feb2025 02:15:07.859] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
