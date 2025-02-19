@@ -37,8 +37,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-02-19 04:30:43 +0000",
+      "shrubland": "2025-02-19 04:30:58 +0000",
+      "old_growth_woodland": "2025-02-19 04:30:27 +0000",
       "forested_field": "2025-02-15 03:02:16 +0000",
       "lush_desert": "2025-02-15 05:36:26 +0000",
+      "dune_beach": "2025-02-19 04:31:16 +0000",
+      "prairie": "2025-02-19 04:32:34 +0000",
       "glowing_grotto": "2025-02-15 03:51:17 +0000",
       "rainforest": "2025-02-15 03:08:58 +0000",
       "crag": "2025-02-15 05:43:16 +0000"
@@ -5869,6 +5874,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 04:32:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 04:12:34 +0000"
@@ -5884,6 +5895,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-02-19 04:32:16 +0000"
     },
     "done": true
   },
@@ -5911,9 +5928,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-19 04:32:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-19 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-19 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-19 04:32:21 +0000"
     },
     "done": true
   },
@@ -5923,9 +5958,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 04:32:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-02-19 04:24:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 04:32:23 +0000"
     },
     "done": true
   },
@@ -5941,9 +5988,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-19 04:32:21 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_palisade": {
     "criteria": {
       "has_log": "2025-02-19 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-19 04:32:23 +0000"
     },
     "done": true
   },
@@ -5971,6 +6030,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 04:32:23 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/chain": {
     "criteria": {
       "has_ingot": "2025-02-19 04:12:34 +0000"
@@ -5989,6 +6054,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-19 04:32:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-02-19 04:28:49 +0000"
@@ -6001,9 +6078,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 04:32:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-02-19 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-19 04:32:23 +0000"
     },
     "done": true
   },
