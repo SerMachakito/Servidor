@@ -3503,3 +3503,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Feb2025 07:00:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO drowned
 [21Feb2025 07:01:06.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
 [21Feb2025 07:11:56.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -3100.500000, 104.500000, -2883.500000]
+[21Feb2025 07:15:09.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [The Desert Swimmers]
+[21Feb2025 07:15:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Paul Atreides]
+[21Feb2025 07:18:20.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [What a Handful]
+[21Feb2025 07:20:12.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has completed the challenge [N O]
+[21Feb2025 07:21:02.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread moved too quickly! 2.7329732115881598,-0.12129684053920187,-9.711377188617917
+[21Feb2025 07:21:21.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]

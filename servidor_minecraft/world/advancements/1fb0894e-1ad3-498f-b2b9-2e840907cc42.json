@@ -47,6 +47,8 @@
       "moor": "2025-02-16 08:02:50 +0000",
       "forested_field": "2025-02-14 08:16:17 +0000",
       "dryland": "2025-02-15 07:30:42 +0000",
+      "wasteland": "2025-02-21 07:15:17 +0000",
+      "wasteland_steppe": "2025-02-21 07:15:33 +0000",
       "dune_beach": "2025-02-14 08:50:48 +0000",
       "volcano": "2025-02-19 04:49:08 +0000",
       "lavender_field": "2025-02-15 02:15:21 +0000",
@@ -106,6 +108,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-02-21 07:11:56 +0000",
       "minecraft:birch_forest": "2025-02-15 08:01:16 +0000",
       "minecraft:badlands": "2025-02-15 07:30:27 +0000",
       "minecraft:beach": "2025-02-14 09:01:21 +0000",
@@ -117,6 +120,7 @@
       "minecraft:forest": "2025-02-14 09:02:23 +0000",
       "minecraft:desert": "2025-02-16 08:48:13 +0000",
       "minecraft:ocean": "2025-02-14 08:52:29 +0000",
+      "minecraft:warm_ocean": "2025-02-21 07:16:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-14 08:59:47 +0000",
       "minecraft:savanna": "2025-02-15 07:17:32 +0000",
       "minecraft:plains": "2025-02-15 02:19:48 +0000"
@@ -10676,9 +10680,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-02-21 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "mca:grow_child": {
+    "criteria": {
+      "baby": "2025-02-21 07:18:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-21 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-21 07:15:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-02-21 07:01:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-02-21 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-02-21 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-02-21 07:15:09 +0000"
     },
     "done": true
   },
