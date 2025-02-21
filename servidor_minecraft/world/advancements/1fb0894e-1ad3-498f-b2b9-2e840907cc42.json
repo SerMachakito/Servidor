@@ -10680,6 +10680,12 @@
     },
     "done": true
   },
+  "orcz:magiccancellation": {
+    "criteria": {
+      "magiccancellation": "2025-02-21 07:20:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_helmet": {
     "criteria": {
       "has_item": "2025-02-21 07:15:09 +0000"
@@ -10695,6 +10701,12 @@
   "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
       "has_item": "2025-02-21 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-21 07:29:18 +0000"
     },
     "done": true
   },
