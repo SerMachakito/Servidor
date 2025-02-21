@@ -3496,3 +3496,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Feb2025 06:52:49.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2376.500000, 71.500000, -1591.500000]
 [21Feb2025 06:52:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
 [21Feb2025 06:53:10.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[21Feb2025 06:54:55.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[21Feb2025 06:55:17.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[21Feb2025 07:00:00.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Zombie
+[21Feb2025 07:00:19.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[21Feb2025 07:00:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO drowned
+[21Feb2025 07:01:06.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]

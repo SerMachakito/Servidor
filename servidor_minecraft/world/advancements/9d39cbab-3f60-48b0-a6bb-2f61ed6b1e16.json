@@ -6711,6 +6711,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-21 06:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-21 06:57:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
       "has_item": "2025-02-21 06:44:26 +0000"
