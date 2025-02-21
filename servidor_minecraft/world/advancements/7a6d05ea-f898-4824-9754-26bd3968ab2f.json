@@ -8086,7 +8086,9 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-02-19 05:55:10 +0000",
-      "potato": "2025-02-19 05:08:22 +0000"
+      "potato": "2025-02-19 05:08:22 +0000",
+      "wheat": "2025-02-19 07:06:37 +0000",
+      "melon": "2025-02-19 07:06:35 +0000"
     },
     "done": false
   },
@@ -9087,6 +9089,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-19 07:12:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-19 06:38:31 +0000"
@@ -9144,6 +9152,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-02-19 07:06:35 +0000"
     },
     "done": true
   },
