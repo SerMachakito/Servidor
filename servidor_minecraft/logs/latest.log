@@ -3527,3 +3527,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Feb2025 07:31:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [The Only Good Bug...]
 [21Feb2025 07:32:44.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
 [21Feb2025 07:32:44.365] [Netty Epoll Server IO #7/WARN] [emotecraft/]: Player: ServerPlayer['Kortight'/1061, l='ServerLevel[world]', x=-2417.50, y=64.87, z=-1535.50] does not respect server-side emote tracking. Ignoring repeat
+[21Feb2025 07:41:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has completed the challenge [Will I turned into one of them?]
