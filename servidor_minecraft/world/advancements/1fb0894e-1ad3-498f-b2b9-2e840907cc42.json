@@ -10676,5 +10676,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-21 07:01:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
