@@ -3528,3 +3528,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Feb2025 07:32:44.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
 [21Feb2025 07:32:44.365] [Netty Epoll Server IO #7/WARN] [emotecraft/]: Player: ServerPlayer['Kortight'/1061, l='ServerLevel[world]', x=-2417.50, y=64.87, z=-1535.50] does not respect server-side emote tracking. Ignoring repeat
 [21Feb2025 07:41:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has completed the challenge [Will I turned into one of them?]
+[21Feb2025 07:46:13.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[21Feb2025 07:49:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2990.500000, 64.500000, -4084.500000]
+[21Feb2025 07:49:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[21Feb2025 07:49:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[21Feb2025 07:49:54.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [No Step on Snake]
+[21Feb2025 07:50:04.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [No Step on Snake]
+[21Feb2025 07:50:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[21Feb2025 07:51:15.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Mariachi?]
+[21Feb2025 07:51:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Mariachi?]
+[21Feb2025 07:52:32.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <FilthyDread> ZZZzzzzZZZZzZzzzZZZZZZZ
+[21Feb2025 07:53:54.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2376.500000, 75.500000, -1590.500000]
+[21Feb2025 07:54:24.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kortight lost connection: Disconnected
+[21Feb2025 07:54:24.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight left the game

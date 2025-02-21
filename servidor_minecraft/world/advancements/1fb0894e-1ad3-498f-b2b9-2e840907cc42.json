@@ -10698,6 +10698,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-02-21 07:48:46 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/myrmex_desert_hoe": {
     "criteria": {
       "has_item": "2025-02-21 07:31:14 +0000"
@@ -10713,6 +10719,12 @@
   "mca:grow_child": {
     "criteria": {
       "baby": "2025-02-21 07:18:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-02-21 07:50:04 +0000"
     },
     "done": true
   },
