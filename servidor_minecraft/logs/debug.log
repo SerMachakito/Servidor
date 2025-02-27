@@ -15542,3 +15542,99 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [27Feb2025 06:36:10.703] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/78130, l='ServerLevel[world]', x=-19208.36, y=7.29, z=-12564.66], dimensionLocationPath twilight_forest
 [27Feb2025 06:36:10.703] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/78130, l='ServerLevel[world]', x=-19208.36, y=7.29, z=-12564.66] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f]
 [27Feb2025 06:36:11.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/78130, l='ServerLevel[world]', x=-19208.13, y=7.04, z=-12564.20, removed=DISCARDED]
+[27Feb2025 06:37:44.915] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-19212.89, y=49.00, z=-12549.01]
+[27Feb2025 06:37:53.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO succumbed to the Lich's explosive magic
+[27Feb2025 06:37:56.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[27Feb2025 06:38:05.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/78447, l='ServerLevel[world]', x=-19222.75, y=42.58, z=-12560.37], dimensionLocationPath twilight_forest
+[27Feb2025 06:38:05.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/78447, l='ServerLevel[world]', x=-19222.75, y=42.58, z=-12560.37] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88]
+[27Feb2025 06:38:05.654] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/78447, l='ServerLevel[world]', x=-19222.88, y=42.33, z=-12560.68, removed=DISCARDED]
+[27Feb2025 06:38:07.353] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/78451, l='ServerLevel[world]', x=-19220.41, y=41.42, z=-12560.65], dimensionLocationPath twilight_forest
+[27Feb2025 06:38:07.353] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/78451, l='ServerLevel[world]', x=-19220.41, y=41.42, z=-12560.65] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88]
+[27Feb2025 06:38:07.854] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/78451, l='ServerLevel[world]', x=-19220.52, y=41.17, z=-12560.88, removed=DISCARDED]
+[27Feb2025 06:38:09.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/78458, l='ServerLevel[world]', x=-19221.27, y=42.23, z=-12560.66], dimensionLocationPath twilight_forest
+[27Feb2025 06:38:09.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/78458, l='ServerLevel[world]', x=-19221.27, y=42.23, z=-12560.66] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88]
+[27Feb2025 06:38:09.804] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/78458, l='ServerLevel[world]', x=-19221.11, y=41.98, z=-12559.93, removed=DISCARDED]
+[27Feb2025 06:38:54.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 succumbed to the Lich's explosive magic
+[27Feb2025 06:38:59.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[27Feb2025 06:40:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -19232.500000, 6.500000, -12713.500000]
+[27Feb2025 06:40:16.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-19213.48, y=44.50, z=-12556.54], dimensionLocationPath twilight_forest
+[27Feb2025 06:40:16.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-19213.48, y=44.50, z=-12556.54] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88]
+[27Feb2025 06:40:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -19355.500000, 8.500000, -12933.500000]
+[27Feb2025 06:40:23.443] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-2421, y=50, z=-1616}
+[27Feb2025 06:40:24.314] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[27Feb2025 06:40:24.314] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 1, server=-343718522, client=-343718522
+[27Feb2025 06:40:24.314] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[27Feb2025 06:40:24.314] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 4, server=931614316, client=931614316
+[27Feb2025 06:40:24.468] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[27Feb2025 06:40:24.468] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 2, server=907960553, client=907960553
+[27Feb2025 06:40:24.468] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[27Feb2025 06:40:24.468] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 3, server=686731592, client=686731592
+[27Feb2025 06:40:35.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 06:40:35.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 06:41:04.714] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/79411, l='ServerLevel[world]', x=-19206.39, y=32.29, z=-12556.53], dimensionLocationPath twilight_forest
+[27Feb2025 06:41:04.715] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/79411, l='ServerLevel[world]', x=-19206.39, y=32.29, z=-12556.53] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f]
+[27Feb2025 06:41:05.233] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/79411, l='ServerLevel[world]', x=-19206.05, y=32.00, z=-12556.54, removed=DISCARDED]
+[27Feb2025 06:41:45.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/79533, l='ServerLevel[world]', x=-19209.48, y=49.55, z=-12549.27], dimensionLocationPath twilight_forest
+[27Feb2025 06:41:45.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/79533, l='ServerLevel[world]', x=-19209.48, y=49.55, z=-12549.27] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f]
+[27Feb2025 06:41:45.865] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/79534, l='ServerLevel[world]', x=-19210.65, y=49.37, z=-12549.61], dimensionLocationPath twilight_forest
+[27Feb2025 06:41:45.865] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/79534, l='ServerLevel[world]', x=-19210.65, y=49.37, z=-12549.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@136ad]
+[27Feb2025 06:41:46.137] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/79533, l='ServerLevel[world]', x=-19209.67, y=49.31, z=-12549.94, removed=DISCARDED]
+[27Feb2025 06:41:46.375] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/79534, l='ServerLevel[world]', x=-19210.90, y=49.13, z=-12549.19, removed=DISCARDED]
+[27Feb2025 06:42:04.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[27Feb2025 06:43:21.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/79718, l='ServerLevel[world]', x=-19212.58, y=47.45, z=-12555.50], dimensionLocationPath twilight_forest
+[27Feb2025 06:43:21.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/79718, l='ServerLevel[world]', x=-19212.58, y=47.45, z=-12555.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f]
+[27Feb2025 06:43:22.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/79718, l='ServerLevel[world]', x=-19213.85, y=46.14, z=-12555.87, removed=DISCARDED]
+[27Feb2025 06:43:36.003] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/79771, l='ServerLevel[world]', x=-19204.62, y=37.46, z=-12549.63], dimensionLocationPath twilight_forest
+[27Feb2025 06:43:36.003] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/79771, l='ServerLevel[world]', x=-19204.62, y=37.46, z=-12549.63] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f]
+[27Feb2025 06:43:36.654] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/79771, l='ServerLevel[world]', x=-19204.75, y=36.05, z=-12549.91, removed=DISCARDED]
+[27Feb2025 06:44:39.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[27Feb2025 06:44:57.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/79977, l='ServerLevel[world]', x=-19200.25, y=25.44, z=-12547.52], dimensionLocationPath twilight_forest
+[27Feb2025 06:44:57.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/79977, l='ServerLevel[world]', x=-19200.25, y=25.44, z=-12547.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b88, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f]
+[27Feb2025 06:44:57.754] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/79977, l='ServerLevel[world]', x=-19200.35, y=24.67, z=-12547.13, removed=DISCARDED]
+[27Feb2025 06:45:15.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has reached the goal [Bring Out Your Dead]
+[27Feb2025 06:45:15.769] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@3cfb28, suppressing error
+java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelStem cannot be cast to class net.minecraft.world.level.LevelAccessor (net.minecraft.world.level.dimension.LevelStem and net.minecraft.world.level.LevelAccessor are in module minecraft@1.20.1 of loader 'TRANSFORMER' @60a01cb)
+	at twilightforest.util.LandmarkUtil.markStructureConquered(LandmarkUtil.java:69) ~[Twilight-Forest-Mod-Forge-1.20.1.jar%23276!/:4.3.1735]
+	at twilightforest.util.LandmarkUtil.markStructureConquered(LandmarkUtil.java:64) ~[Twilight-Forest-Mod-Forge-1.20.1.jar%23276!/:4.3.1735]
+	at twilightforest.entity.boss.Lich.m_6667_(Lich.java:362) ~[Twilight-Forest-Mod-Forge-1.20.1.jar%23276!/:4.3.1735]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at twilightforest.entity.boss.Lich.m_6469_(Lich.java:330) ~[Twilight-Forest-Mod-Forge-1.20.1.jar%23276!/:4.3.1735]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Feb2025 06:45:35.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 06:45:35.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 06:46:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -19357.500000, 7.500000, -12936.500000]
+[27Feb2025 06:46:27.682] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-2421, y=50, z=-1616}
+[27Feb2025 06:46:31.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[27Feb2025 06:46:33.320] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-19207.29, y=7.00, z=-12550.41]
+[27Feb2025 06:46:33.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread lost connection: Disconnected
+[27Feb2025 06:46:33.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread left the game
+[27Feb2025 06:46:33.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['FilthyDread'/2952, l='ServerLevel[world]', x=-2373.50, y=70.00, z=-1583.50, removed=UNLOADED_WITH_PLAYER]
+[27Feb2025 06:46:34.072] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['FilthyDread'/2952, l='ServerLevel[world]', x=-2373.50, y=70.00, z=-1583.50, removed=UNLOADED_WITH_PLAYER]
+[27Feb2025 06:46:38.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -19358.500000, 7.500000, -12932.500000]
+[27Feb2025 06:46:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -19355.500000, 7.500000, -12934.500000]
+[27Feb2025 06:46:40.923] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-2421, y=50, z=-1616}
+[27Feb2025 06:46:42.220] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[27Feb2025 06:46:42.220] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 1, server=-343718522, client=-343718522
+[27Feb2025 06:46:42.220] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[27Feb2025 06:46:42.220] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 4, server=931614316, client=931614316
