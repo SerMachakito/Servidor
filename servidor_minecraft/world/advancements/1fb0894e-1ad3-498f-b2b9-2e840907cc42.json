@@ -10680,21 +10680,9 @@
     },
     "done": true
   },
-  "orcz:magiccancellation": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
-      "magiccancellation": "2025-02-21 07:20:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_sword": {
-    "criteria": {
-      "has_item": "2025-02-21 07:31:14 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/cut_sandstone_post": {
-    "criteria": {
-      "has_cut_sandstone": "2025-02-21 07:53:45 +0000"
+      "has_any_ingredient": "2025-02-21 07:01:01 +0000"
     },
     "done": true
   },
@@ -10704,27 +10692,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
-      "has_cut_sandstone": "2025-02-21 07:53:45 +0000"
+      "has_item": "2025-02-21 07:15:09 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
-      "sugar_cane": "2025-02-21 07:48:46 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/tools/myrmex_desert_hoe": {
-    "criteria": {
-      "has_item": "2025-02-21 07:31:14 +0000"
+      "killed_fire_dragon": "2025-02-21 07:15:09 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
     "criteria": {
-      "has_any_ingredient": "2025-02-21 07:31:08 +0000"
+      "has_item": "2025-02-21 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-02-21 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-02-21 07:15:09 +0000"
     },
     "done": true
   },
@@ -10734,15 +10728,33 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+  "orcz:magiccancellation": {
     "criteria": {
-      "has_plank": "2025-02-21 07:51:09 +0000"
+      "magiccancellation": "2025-02-21 07:20:12 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rattlesnake": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "killed": "2025-02-21 07:50:04 +0000"
+      "has_enchanted_golden_apple": "2025-02-21 07:29:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-21 07:31:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2025-02-21 07:31:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2025-02-21 07:31:14 +0000"
     },
     "done": true
   },
@@ -10776,33 +10788,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-21 07:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-02-21 07:29:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-21 07:15:09 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/myrmex_desert_shovel": {
     "criteria": {
       "has_item": "2025-02-21 07:31:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-21 07:01:01 +0000"
     },
     "done": true
   },
@@ -10812,21 +10800,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_cut_sandstone": "2025-02-21 07:53:45 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-02-21 07:31:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_item": "2025-02-21 07:15:09 +0000"
+      "sugar_cane": "2025-02-21 07:48:46 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-02-21 07:50:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-02-21 07:51:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-02-21 07:51:09 +0000"
     },
     "done": true
   },
@@ -10836,27 +10836,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+  "adorn:recipes/cut_sandstone_post": {
     "criteria": {
       "has_cut_sandstone": "2025-02-21 07:53:45 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/deathworm_egg": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
-      "egg": "2025-02-21 07:15:09 +0000"
+      "has_cut_sandstone": "2025-02-21 07:53:45 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "has_item": "2025-02-21 07:15:09 +0000"
+      "has_cut_sandstone": "2025-02-21 07:53:45 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
-      "has_plank": "2025-02-21 07:51:09 +0000"
+      "has_cut_sandstone": "2025-02-21 07:53:45 +0000"
     },
     "done": true
   },
