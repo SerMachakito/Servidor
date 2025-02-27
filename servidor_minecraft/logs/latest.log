@@ -3450,3 +3450,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Feb2025 04:38:43.429] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
 [27Feb2025 04:38:44.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved too quickly! 9.33365492411258,3.9986640208878583,0.32607946296548107
 [27Feb2025 04:39:07.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[27Feb2025 04:45:12.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread lost connection: Disconnected
+[27Feb2025 04:45:12.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread left the game
+[27Feb2025 04:48:10.449] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FilthyDread is 1fb0894e-1ad3-498f-b2b9-2e840907cc42
+[27Feb2025 04:48:15.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FilthyDread[/127.128.51.156:50973] logged in with entity id 2952 at (-2373.367870476244, 70.0, -1583.0209565564514)
+[27Feb2025 04:48:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread joined the game
+[27Feb2025 04:48:15.293] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
