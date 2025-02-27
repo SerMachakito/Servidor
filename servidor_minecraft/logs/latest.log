@@ -3563,3 +3563,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Feb2025 05:31:07.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
 [27Feb2025 05:34:31.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
 [27Feb2025 05:34:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO fell from a high place
+[27Feb2025 05:35:42.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2021.500000, 63.500000, -129.500000]
+[27Feb2025 05:36:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2021.500000, 63.500000, -129.500000]
+[27Feb2025 05:40:03.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[27Feb2025 05:40:26.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3573ms or 71 ticks behind
+[27Feb2025 05:42:04.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[27Feb2025 05:44:17.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 moved wrongly!
+[27Feb2025 05:45:00.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Hunt and Gather]

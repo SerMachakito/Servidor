@@ -10505,6 +10505,12 @@
     },
     "done": false
   },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-02-27 05:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-02-27 04:54:35 +0000"
