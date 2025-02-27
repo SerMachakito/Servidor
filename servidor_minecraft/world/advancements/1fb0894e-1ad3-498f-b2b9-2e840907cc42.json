@@ -10879,9 +10879,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:14:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-02-27 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:14:49 +0000"
     },
     "done": true
   },
@@ -10927,6 +10939,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:14:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_cobblestone_post": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:14:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-02-27 05:45:00 +0000"
@@ -10936,6 +10960,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-02-27 05:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:14:49 +0000"
     },
     "done": true
   },
@@ -10975,6 +11005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:14:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/piston": {
     "criteria": {
       "has_sticky_piston": "2025-02-27 05:29:52 +0000"
@@ -10984,6 +11020,12 @@
   "botania:recipes/decorations/turntable": {
     "criteria": {
       "has_alt_item": "2025-02-27 05:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:14:49 +0000"
     },
     "done": true
   },

@@ -9185,9 +9185,23 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_planks": "2025-02-27 06:13:34 +0000",
+      "canopy_sapling": "2025-02-27 06:12:59 +0000",
+      "canopy_log": "2025-02-27 06:12:57 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
     },
     "done": true
   },
@@ -9197,9 +9211,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/twilightforest/sign_post_canopy": {
+    "criteria": {
+      "has_planks": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
     },
     "done": true
   },
@@ -9215,9 +9247,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-02-27 06:12:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
     },
     "done": true
   },
@@ -9233,9 +9295,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:45 +0000"
     },
     "done": true
   },
@@ -9248,6 +9322,18 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-02-27 06:12:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
     },
     "done": true
   },
@@ -9266,6 +9352,18 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
     },
     "done": true
   },

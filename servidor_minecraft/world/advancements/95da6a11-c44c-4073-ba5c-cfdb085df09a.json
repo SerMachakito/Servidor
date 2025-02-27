@@ -10638,6 +10638,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "raven": "2025-02-27 06:14:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-02-27 05:43:55 +0000"
@@ -10779,6 +10785,12 @@
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-02-27 04:54:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_feather": "2025-02-27 06:14:35 +0000"
     },
     "done": true
   },
