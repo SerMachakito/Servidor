@@ -10656,6 +10656,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-27 06:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-02-27 05:40:42 +0000"
@@ -10755,6 +10761,12 @@
   "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
     "criteria": {
       "has_item": "2025-02-27 06:22:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-02-27 06:33:23 +0000"
     },
     "done": true
   },

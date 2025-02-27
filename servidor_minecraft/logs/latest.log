@@ -3684,3 +3684,33 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [27Feb2025 06:26:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 12 [Naga Scale] to 3]
+[27Feb2025 06:26:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Naga Trophy] to 3]
+[27Feb2025 06:27:04.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -18995.500000, 8.500000, -13024.500000]
+[27Feb2025 06:27:08.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -19232.500000, 6.500000, -12525.500000]
+[27Feb2025 06:27:10.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -19382.500000, 8.500000, -13170.500000]
+[27Feb2025 06:27:17.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to FilthyDread]
+[27Feb2025 06:27:20.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[27Feb2025 06:27:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -19825.500000, 54.500000, -13157.500000]
+[27Feb2025 06:27:41.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -19612.500000, 31.500000, -13251.500000]
+[27Feb2025 06:27:47.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -19507.500000, 6.500000, -13309.500000]
+[27Feb2025 06:28:02.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO succumbed to the Lich's explosive magic
+[27Feb2025 06:28:05.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[27Feb2025 06:29:45.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[27Feb2025 06:30:12.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> ./mca editor
+[27Feb2025 06:30:56.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> ./mca editor
+[27Feb2025 06:31:18.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to SasukeUchiha7w7]
+[27Feb2025 06:31:24.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[27Feb2025 06:31:32.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO succumbed to the Lich's explosive magic
+[27Feb2025 06:31:39.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[27Feb2025 06:32:37.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread hit the ground too hard
+[27Feb2025 06:32:41.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to SasukeUchiha7w7]
+[27Feb2025 06:32:49.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was shot by Skeleton
+[27Feb2025 06:32:50.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[27Feb2025 06:32:55.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[27Feb2025 06:33:20.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 hit the ground too hard whilst trying to escape Witch
+[27Feb2025 06:33:51.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -19357.500000, 7.500000, -12936.500000]
+[27Feb2025 06:33:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[27Feb2025 06:35:33.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2545.500000, 78.500000, -2154.500000]
+[27Feb2025 06:35:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. The Lich's aim was better than SasukeUchiha7w7
+[27Feb2025 06:35:50.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[27Feb2025 06:35:51.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]

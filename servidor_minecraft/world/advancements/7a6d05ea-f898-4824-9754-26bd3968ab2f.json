@@ -913,6 +913,7 @@
       "cooked_beef": "2025-02-15 02:50:39 +0000",
       "beef": "2025-02-14 08:51:55 +0000",
       "apple": "2025-02-16 07:52:46 +0000",
+      "mutton": "2025-02-27 06:32:23 +0000",
       "bread": "2025-02-15 02:58:24 +0000",
       "golden_apple": "2025-02-15 07:04:20 +0000",
       "rotten_flesh": "2025-02-15 02:50:31 +0000"
@@ -9199,6 +9200,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/canopy_fence": {
     "criteria": {
       "has_item": "2025-02-27 06:13:34 +0000"
@@ -9265,6 +9272,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-27 06:26:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-27 05:39:23 +0000"
@@ -9274,6 +9287,12 @@
   "twilightforest:recipes/building_blocks/wood/canopy_slab": {
     "criteria": {
       "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
     },
     "done": true
   },
@@ -9385,6 +9404,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
@@ -9394,6 +9419,12 @@
   "twilightforest:recipes/building_blocks/wood/canopy_wood": {
     "criteria": {
       "has_item": "2025-02-27 06:12:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-27 06:33:05 +0000"
     },
     "done": true
   },
@@ -9421,9 +9452,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
     "criteria": {
       "has_item": "2025-02-27 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
     },
     "done": true
   },
@@ -9439,6 +9482,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-02-27 05:39:23 +0000"
@@ -9451,6 +9500,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/canopy_bookshelf": {
     "criteria": {
       "has_item": "2025-02-27 06:13:34 +0000"
@@ -9460,6 +9521,12 @@
   "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {
       "has_item": "2025-02-27 06:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-27 06:33:05 +0000"
     },
     "done": true
   },
