@@ -10535,6 +10535,18 @@
     },
     "done": true
   },
+  "adorn:recipes/mossy_cobblestone_platform": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:22:07 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_step": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 05:40:52 +0000"
@@ -10584,6 +10596,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-02-27 06:15:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-02-27 05:43:55 +0000"
@@ -10605,6 +10623,18 @@
   "adorn:recipes/dark_oak_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2025-02-27 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_cobblestone_step": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:22:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-02-27 06:15:50 +0000"
     },
     "done": true
   },
@@ -10722,6 +10752,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:06 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:21:56 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/stone_pillar": {
     "criteria": {
       "has_stone": "2025-02-27 05:10:29 +0000"
@@ -10824,6 +10866,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-27 05:40:52 +0000"
@@ -10920,9 +10968,21 @@
     },
     "done": true
   },
+  "adorn:recipes/mossy_stone_brick_step": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-27 05:43:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:21:56 +0000"
     },
     "done": true
   },
@@ -10971,6 +11031,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-27 05:40:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:06 +0000"
     },
     "done": true
   },

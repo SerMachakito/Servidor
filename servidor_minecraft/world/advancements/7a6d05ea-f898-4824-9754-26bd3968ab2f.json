@@ -9211,6 +9211,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-02-27 06:23:11 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/decorations/twilightforest/sign_post_canopy": {
     "criteria": {
       "has_planks": "2025-02-27 06:13:34 +0000"
@@ -9220,6 +9238,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-02-27 06:23:11 +0000"
     },
     "done": true
   },
@@ -9259,6 +9283,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_cobblestone_post": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
     "criteria": {
       "has_item": "2025-02-27 06:13:34 +0000"
@@ -9277,6 +9313,12 @@
     },
     "done": true
   },
+  "adorn:recipes/mossy_stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:21:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
     "criteria": {
       "has_item": "2025-02-27 06:13:34 +0000"
@@ -9289,9 +9331,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:51 +0000"
     },
     "done": true
   },
@@ -9325,6 +9379,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/canopy_wood": {
     "criteria": {
       "has_item": "2025-02-27 06:12:57 +0000"
@@ -9349,6 +9415,30 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_stone_brick_step": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:21:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-02-27 05:39:23 +0000"
@@ -9364,6 +9454,12 @@
   "twilightforest:recipes/building_blocks/canopy_bookshelf": {
     "criteria": {
       "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-02-27 06:16:50 +0000"
     },
     "done": true
   },
