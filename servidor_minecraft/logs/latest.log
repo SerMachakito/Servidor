@@ -3570,3 +3570,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Feb2025 05:42:04.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
 [27Feb2025 05:44:17.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 moved wrongly!
 [27Feb2025 05:45:00.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Hunt and Gather]
+[27Feb2025 05:46:45.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[27Feb2025 05:48:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[27Feb2025 05:51:38.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[27Feb2025 05:52:18.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
