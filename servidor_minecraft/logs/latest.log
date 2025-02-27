@@ -3574,3 +3574,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Feb2025 05:48:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
 [27Feb2025 05:51:38.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
 [27Feb2025 05:52:18.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[27Feb2025 05:57:04.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved wrongly!
+[27Feb2025 05:59:13.332] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[27Feb2025 05:59:13.332] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[27Feb2025 05:59:20.674] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[27Feb2025 05:59:20.674] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[27Feb2025 05:59:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[27Feb2025 06:03:15.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 moved wrongly!
