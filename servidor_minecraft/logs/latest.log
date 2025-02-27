@@ -3456,3 +3456,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Feb2025 04:48:15.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FilthyDread[/127.128.51.156:50973] logged in with entity id 2952 at (-2373.367870476244, 70.0, -1583.0209565564514)
 [27Feb2025 04:48:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread joined the game
 [27Feb2025 04:48:15.293] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
+[27Feb2025 05:12:21.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved wrongly!
