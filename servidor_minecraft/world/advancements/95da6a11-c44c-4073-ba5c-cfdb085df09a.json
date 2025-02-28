@@ -2427,6 +2427,7 @@
       "cooked_mutton": "2025-02-15 02:22:13 +0000",
       "cooked_beef": "2025-02-15 02:23:47 +0000",
       "beef": "2025-02-15 08:34:17 +0000",
+      "baked_potato": "2025-02-28 06:04:05 +0000",
       "bread": "2025-02-15 05:59:23 +0000",
       "golden_apple": "2025-02-27 06:44:41 +0000",
       "cookie": "2025-02-15 03:22:23 +0000",
@@ -6470,6 +6471,7 @@
   },
   "adorn:everything": {
     "criteria": {
+      "has_stone_ladder": "2025-02-28 06:05:08 +0000",
       "has_step": "2025-02-17 07:56:00 +0000"
     },
     "done": false
@@ -11108,9 +11110,33 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-28 06:03:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2025-02-28 06:03:32 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-02-28 05:52:04 +0000"
+    },
+    "done": true
+  },
+  "adorn:stone_ladder": {
+    "criteria": {
+      "has_stone_ladder": "2025-02-28 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-28 06:03:55 +0000"
     },
     "done": true
   },

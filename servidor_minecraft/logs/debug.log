@@ -11649,3 +11649,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Feb2025 06:02:53.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Feb2025 06:02:53.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Feb2025 06:05:08.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Miner's Ladder]
+[28Feb2025 06:07:00.549] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: New dummy
+[28Feb2025 06:07:53.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 06:07:53.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 06:12:53.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 06:12:53.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 06:13:56.844] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2415.08, y=69.00, z=-1537.36], dimensionLocationPath overworld
+[28Feb2025 06:14:22.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2434.80, y=69.02, z=-1539.03]
