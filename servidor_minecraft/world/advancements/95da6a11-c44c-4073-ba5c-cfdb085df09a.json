@@ -11110,6 +11110,12 @@
     },
     "done": false
   },
+  "adorn:recipes/basalt_post": {
+    "criteria": {
+      "has_basalt": "2025-02-28 06:36:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-02-28 06:03:56 +0000"
@@ -11128,6 +11134,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-28 06:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-28 06:36:58 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-02-28 05:52:04 +0000"
@@ -11137,6 +11155,12 @@
   "adorn:stone_ladder": {
     "criteria": {
       "has_stone_ladder": "2025-02-28 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-28 06:36:58 +0000"
     },
     "done": true
   },
