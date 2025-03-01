@@ -11110,15 +11110,9 @@
     },
     "done": false
   },
-  "adorn:recipes/basalt_post": {
+  "paraglider:pray_to_the_goddess": {
     "criteria": {
-      "has_basalt": "2025-02-28 06:36:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-02-28 06:03:56 +0000"
+      "bargain": "2025-02-28 05:52:04 +0000"
     },
     "done": true
   },
@@ -11128,9 +11122,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-28 06:03:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-28 06:03:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:stone_ladder": {
+    "criteria": {
+      "has_stone_ladder": "2025-02-28 06:05:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-02-28 06:23:34 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/basalt_post": {
+    "criteria": {
+      "has_basalt": "2025-02-28 06:36:58 +0000"
     },
     "done": true
   },
@@ -11146,27 +11164,9 @@
     },
     "done": true
   },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-02-28 05:52:04 +0000"
-    },
-    "done": true
-  },
-  "adorn:stone_ladder": {
-    "criteria": {
-      "has_stone_ladder": "2025-02-28 06:05:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-28 06:36:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-02-28 06:03:55 +0000"
     },
     "done": true
   },
