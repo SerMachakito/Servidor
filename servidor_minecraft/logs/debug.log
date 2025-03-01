@@ -11709,3 +11709,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Mar2025 06:47:44.923] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=d7add5b6-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
 [01Mar2025 06:47:56.456] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=1a87bc2c-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
 [01Mar2025 06:48:06.921] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=1a87bc2c-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[01Mar2025 06:48:24.544] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=9eb0ca47-0000-0000-0000-000000000000, length=136, extra={valid=false}}, startingAt=0, player=null}
+[01Mar2025 06:48:33.725] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=9eb0ca47-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[01Mar2025 06:48:37.882] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=9eb0ca47-0000-0000-0000-000000000000, length=136, extra={valid=false}}, startingAt=0, player=null}
+[01Mar2025 06:48:49.276] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=9eb0ca47-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[01Mar2025 06:49:01.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[01Mar2025 06:49:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[01Mar2025 06:49:08.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 06:49:08.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 06:49:10.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Mar2025 06:49:10.976] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[01Mar2025 06:49:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Mar2025 06:49:10.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Mar2025 06:49:10.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Mar2025 06:49:11.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Mar2025 06:49:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Mar2025 06:49:11.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[01Mar2025 06:49:11.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Mar2025 06:49:11.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Mar2025 06:49:11.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 06:49:11.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 06:49:11.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Mar2025 06:49:11.718] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[01Mar2025 06:49:11.718] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$3912cf$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[01Mar2025 06:49:11.718] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$3912cf$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[01Mar2025 06:49:11.722] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[01Mar2025 06:49:11.722] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[01Mar2025 06:49:11.732] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for graveyard:past
+[01Mar2025 06:49:11.732] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for graveyard:past
+[01Mar2025 06:49:11.733] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[01Mar2025 06:49:11.733] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[01Mar2025 06:49:11.733] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[01Mar2025 06:49:11.733] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[01Mar2025 06:49:11.734] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[01Mar2025 06:49:11.734] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[01Mar2025 06:49:11.735] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Mar2025 06:49:11.736] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[01Mar2025 06:49:11.750] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
