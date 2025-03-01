@@ -11699,3 +11699,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Mar2025 06:29:09.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Mar2025 06:34:08.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 06:34:08.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 06:39:09.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 06:39:09.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 06:39:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A large Graveyard horde of undead appeared at -2457 69 -1510.
+[01Mar2025 06:41:13.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2456.500000, 69.500000, -1509.500000]
+[01Mar2025 06:44:08.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 06:44:08.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 06:47:36.695] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=d7add5b6-0000-0000-0000-000000000000, length=130, extra={valid=true}}, startingAt=0, player=null}
+[01Mar2025 06:47:44.923] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=d7add5b6-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[01Mar2025 06:47:56.456] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=1a87bc2c-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[01Mar2025 06:48:06.921] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=1a87bc2c-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}

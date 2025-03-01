@@ -3438,3 +3438,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Mar2025 06:19:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
 [01Mar2025 06:19:18.669] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
 [01Mar2025 06:19:20.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[01Mar2025 06:39:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A large Graveyard horde of undead appeared at -2457 69 -1510.
+[01Mar2025 06:41:13.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2456.500000, 69.500000, -1509.500000]
