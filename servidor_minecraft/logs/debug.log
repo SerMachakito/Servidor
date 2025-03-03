@@ -12166,3 +12166,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Mar2025 08:07:33.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2413.70, y=65.00, z=-1538.90]
 [03Mar2025 08:10:14.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [King] to ELMACHAKITO]
 [03Mar2025 08:11:00.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Road Marker] to ELMACHAKITO]
+[03Mar2025 08:12:11.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 08:12:11.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 08:12:26.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Ceiling Fan] to ELMACHAKITO]
+[03Mar2025 08:12:45.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2416.23, y=66.47, z=-1543.73], dimensionLocationPath overworld
+[03Mar2025 08:12:45.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2416.23, y=66.47, z=-1543.73] in list []
+[03Mar2025 08:12:45.585] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2415.16, y=65.00, z=-1540.94]
+[03Mar2025 08:12:46.663] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/27034, l='ServerLevel[world]', x=-2414.35, y=67.37, z=-1539.45], dimensionLocationPath overworld
+[03Mar2025 08:12:46.663] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/27034, l='ServerLevel[world]', x=-2414.35, y=67.37, z=-1539.45] in list []
+[03Mar2025 08:12:49.663] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/27034, l='ServerLevel[world]', x=-2414.13, y=65.00, z=-1538.52, removed=DISCARDED]
+[03Mar2025 08:12:53.729] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2415.67, y=65.00, z=-1541.00], dimensionLocationPath overworld
+[03Mar2025 08:12:53.729] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2415.67, y=65.00, z=-1541.00] in list []
+[03Mar2025 08:12:54.179] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/15, l='ServerLevel[world]', x=-2415.67, y=66.25, z=-1541.00]
+[03Mar2025 08:13:16.813] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/27367, l='ServerLevel[world]', x=-2414.60, y=67.38, z=-1541.34], dimensionLocationPath overworld
+[03Mar2025 08:13:16.813] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/27367, l='ServerLevel[world]', x=-2414.60, y=67.38, z=-1541.34] in list []
+[03Mar2025 08:13:17.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/27367, l='ServerLevel[world]', x=-2414.92, y=65.00, z=-1540.96, removed=DISCARDED]
+[03Mar2025 08:13:37.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[03Mar2025 08:13:37.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[03Mar2025 08:13:44.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Mar2025 08:13:44.320] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[03Mar2025 08:13:44.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Mar2025 08:13:44.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Mar2025 08:13:44.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Mar2025 08:13:44.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Mar2025 08:13:46.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03Mar2025 08:13:46.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Mar2025 08:13:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Mar2025 08:13:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03Mar2025 08:13:46.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 08:13:46.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 08:13:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Mar2025 08:13:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03Mar2025 08:13:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Mar2025 08:13:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Mar2025 08:13:46.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03Mar2025 08:13:46.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Mar2025 08:13:46.478] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[03Mar2025 08:13:46.478] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$a3a750$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[03Mar2025 08:13:46.478] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$a3a750$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[03Mar2025 08:13:46.483] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[03Mar2025 08:13:46.483] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[03Mar2025 08:13:46.506] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for graveyard:past
+[03Mar2025 08:13:46.506] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for graveyard:past
+[03Mar2025 08:13:46.507] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[03Mar2025 08:13:46.507] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[03Mar2025 08:13:46.507] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[03Mar2025 08:13:46.507] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[03Mar2025 08:13:46.507] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[03Mar2025 08:13:46.507] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[03Mar2025 08:13:46.513] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03Mar2025 08:13:46.514] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[03Mar2025 08:13:46.529] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

@@ -6473,6 +6473,7 @@
   "adorn:everything": {
     "criteria": {
       "has_stone_ladder": "2025-02-28 06:05:08 +0000",
+      "has_candlelit_lantern": "2025-03-03 08:07:18 +0000",
       "has_step": "2025-02-17 07:56:00 +0000"
     },
     "done": false
@@ -11276,6 +11277,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-03-03 07:28:53 +0000"
+    },
+    "done": true
+  },
+  "adorn:candlelit_lantern": {
+    "criteria": {
+      "has_candlelit_lantern": "2025-03-03 08:07:18 +0000"
     },
     "done": true
   },
