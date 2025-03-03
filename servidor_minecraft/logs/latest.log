@@ -3462,3 +3462,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Mar2025 07:37:33.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2019, y=-20, z=-1441} BlockPos{x=-2014, y=-22, z=-1449}
 [03Mar2025 07:37:34.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2013, y=-23, z=-1449} BlockPos{x=-2014, y=-21, z=-1449}
 [03Mar2025 07:40:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2803.500000, 73.500000, -599.500000]
+[03Mar2025 07:41:04.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Fire Dragon
+[03Mar2025 07:41:17.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Creative Mode]
+[03Mar2025 07:41:20.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Survival Mode]
+[03Mar2025 07:41:31.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03Mar2025 07:41:37.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO was slain by Fire Dragon
+[03Mar2025 07:41:41.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03Mar2025 07:42:36.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Spectator Mode]
+[03Mar2025 07:42:43.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2939.500000, 71.500000, -1135.500000]
+[03Mar2025 07:45:04.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -3033.500000, -5.500000, -743.500000]
+[03Mar2025 07:45:50.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03Mar2025 07:47:47.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2340.500000, 0.500000, -1498.500000]
+[03Mar2025 07:47:47.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Into Darkness]
+[03Mar2025 07:48:50.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2042.500000, -18.500000, -1594.500000]
+[03Mar2025 07:49:03.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
