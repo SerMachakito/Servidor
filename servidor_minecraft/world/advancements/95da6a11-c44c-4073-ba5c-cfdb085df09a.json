@@ -11177,6 +11177,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-03-03 07:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-03-03 07:36:13 +0000"
@@ -11186,6 +11192,12 @@
   "botania:recipes/decorations/brewery": {
     "criteria": {
       "has_alt_item": "2025-03-03 07:27:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-03-03 08:00:44 +0000"
     },
     "done": true
   },
@@ -11240,6 +11252,12 @@
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-03-03 07:27:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-03-03 08:00:24 +0000"
     },
     "done": true
   },
