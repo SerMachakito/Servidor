@@ -3454,3 +3454,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Mar2025 07:21:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Applied enchantment Efficiency V to ELMACHAKITO's item]
 [03Mar2025 07:24:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Cage] to ELMACHAKITO]
 [03Mar2025 07:28:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Crops of the Wild]
+[03Mar2025 07:35:23.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2015.500000, -31.500000, -1443.500000]
+[03Mar2025 07:36:53.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [The Cutest Predator]
+[03Mar2025 07:37:05.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Bucket] to ELMACHAKITO]
+[03Mar2025 07:37:19.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Bucket] to ELMACHAKITO]
+[03Mar2025 07:37:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Bucket] to ELMACHAKITO]
+[03Mar2025 07:37:33.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2019, y=-20, z=-1441} BlockPos{x=-2014, y=-22, z=-1449}
+[03Mar2025 07:37:34.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2013, y=-23, z=-1449} BlockPos{x=-2014, y=-21, z=-1449}
+[03Mar2025 07:40:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2803.500000, 73.500000, -599.500000]
