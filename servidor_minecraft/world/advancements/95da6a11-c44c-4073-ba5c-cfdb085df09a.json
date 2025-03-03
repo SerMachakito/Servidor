@@ -11176,5 +11176,17 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-03-03 07:27:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-03-03 07:27:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

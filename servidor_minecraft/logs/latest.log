@@ -3450,3 +3450,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Mar2025 07:03:05.728] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
 [03Mar2025 07:03:07.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
 [03Mar2025 07:18:12.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Applied enchantment Efficiency V to ELMACHAKITO's item]
+[03Mar2025 07:21:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Diamond Pickaxe] to ELMACHAKITO]
+[03Mar2025 07:21:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Applied enchantment Efficiency V to ELMACHAKITO's item]
+[03Mar2025 07:24:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Cage] to ELMACHAKITO]
+[03Mar2025 07:28:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Crops of the Wild]
