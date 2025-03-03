@@ -1,21 +1,21 @@
-[01Mar2025 06:17:48.963] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[01Mar2025 06:17:48.967] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[01Mar2025 06:17:50.739] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[01Mar2025 06:17:50.798] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[01Mar2025 06:17:51.308] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[01Mar2025 06:17:51.310] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Mar2025 06:17:51.311] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Mar2025 06:17:51.313] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Mar2025 06:17:51.653] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[01Mar2025 06:17:51.655] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
-[01Mar2025 06:17:55.269] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01Mar2025 06:17:55.574] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[01Mar2025 06:17:55.580] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[01Mar2025 06:17:55.753] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2025 06:17:55.772] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2025 06:17:55.788] [main/WARN] [mixin/]: Reference map 'jeitweaker.refmap.json' for jeitweaker.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2025 06:17:55.791] [main/WARN] [mixin/]: Reference map 'jeitweaker.refmap.json' for jeitweaker.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Mar2025 06:17:55.924] [main/INFO] [Puzzles Lib/]: Loading 99 mods:
+[03Mar2025 07:00:25.872] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[03Mar2025 07:00:25.878] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Mar2025 07:00:27.872] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Mar2025 07:00:27.929] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Mar2025 07:00:28.465] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03Mar2025 07:00:28.469] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Mar2025 07:00:28.470] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Mar2025 07:00:28.471] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Mar2025 07:00:28.841] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03Mar2025 07:00:28.843] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
+[03Mar2025 07:00:33.137] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Mar2025 07:00:33.463] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[03Mar2025 07:00:33.466] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Mar2025 07:00:33.673] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 07:00:33.693] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 07:00:33.715] [main/WARN] [mixin/]: Reference map 'jeitweaker.refmap.json' for jeitweaker.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 07:00:33.718] [main/WARN] [mixin/]: Reference map 'jeitweaker.refmap.json' for jeitweaker.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 07:00:33.895] [main/INFO] [Puzzles Lib/]: Loading 99 mods:
 	- adorn 5.0.1+1.20.1
 	- alexsmobs 1.22.5
 	- ambientsounds 6.0.2
@@ -115,153 +115,153 @@
 	- visualworkbench 8.0.0
 	- xaerominimap 24.2.0
 	- xaeroworldmap 1.38.8
-[01Mar2025 06:17:57.937] [main/WARN] [mixin/]: Error loading class: com/mcwdoors/kikoz/objects/JapaneseDoors (java.lang.ClassNotFoundException: com.mcwdoors.kikoz.objects.JapaneseDoors)
-[01Mar2025 06:17:57.938] [main/WARN] [mixin/]: @Mixin target com.mcwdoors.kikoz.objects.JapaneseDoors was not found forge-dramaticdoors_forge.mixins.json:JapaneseDoorBlockMixinForge
-[01Mar2025 06:17:58.390] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[01Mar2025 06:18:06.400] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[01Mar2025 06:18:06.401] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[01Mar2025 06:18:06.401] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[01Mar2025 06:18:06.402] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[01Mar2025 06:18:06.402] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[01Mar2025 06:18:06.403] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[01Mar2025 06:18:06.403] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[01Mar2025 06:18:08.127] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.68.
-[01Mar2025 06:18:08.366] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[01Mar2025 06:18:08.745] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[01Mar2025 06:18:08.771] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[01Mar2025 06:18:09.092] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[01Mar2025 06:18:09.093] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[01Mar2025 06:18:09.094] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[01Mar2025 06:18:09.097] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[01Mar2025 06:18:09.098] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[01Mar2025 06:18:09.099] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[01Mar2025 06:18:09.100] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[01Mar2025 06:18:09.247] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[01Mar2025 06:18:09.728] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[01Mar2025 06:18:09.728] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[01Mar2025 06:18:09.741] [modloading-worker-0/INFO] [com.duart.mctb.MoreCraftingTables/]: MoreCraftingTables Loaded
-[01Mar2025 06:18:10.348] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[01Mar2025 06:18:10.533] [ForkJoinPool.commonPool-worker-1/INFO] [friendsandfoes/]: [Friends&Foes] An update is available! You are using 2.0.10 version, but the latest version is 3.0.7.
-[01Mar2025 06:18:10.846] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[01Mar2025 06:18:10.929] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[01Mar2025 06:18:18.392] [main/INFO] [Moonlight/]: Initialized block sets in 24ms
-[01Mar2025 06:18:19.542] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[01Mar2025 06:18:20.206] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.206] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.207] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.207] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.207] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.207] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.207] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.207] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:18:20.209] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.209] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.209] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.211] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.211] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.211] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:18:20.211] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.215] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.215] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:18:20.215] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.215] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:18:20.216] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:18:20.216] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.216] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.216] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.216] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.217] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.218] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.223] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.223] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.224] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.224] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.225] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:18:20.225] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:18:20.444] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[01Mar2025 06:18:20.497] [modloading-worker-0/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using camera extension: .png
-[01Mar2025 06:18:20.498] [modloading-worker-0/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using easel extension: .png
-[01Mar2025 06:18:20.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[01Mar2025 06:18:21.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[01Mar2025 06:18:21.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[01Mar2025 06:18:21.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: OUTDATED Current: 4.3.1735 Target: 4.3.1893
-[01Mar2025 06:18:21.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[01Mar2025 06:18:21.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.17 Target: null
-[01Mar2025 06:18:21.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[01Mar2025 06:18:21.608] [main/INFO] [Supplementaries/]: Finished mod setup in: [38, 3, 0, 1, 0, 0, 11, 12, 2] ms
-[01Mar2025 06:18:21.702] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[01Mar2025 06:18:21.703] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[01Mar2025 06:18:21.703] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[01Mar2025 06:18:21.703] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[01Mar2025 06:18:21.704] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[01Mar2025 06:18:21.704] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[01Mar2025 06:18:21.704] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[01Mar2025 06:18:21.779] [main/INFO] [Moonlight/]: Initialized color sets in 56ms
-[01Mar2025 06:18:21.808] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[01Mar2025 06:18:21.810] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01Mar2025 06:18:21.811] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01Mar2025 06:18:21.811] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01Mar2025 06:18:21.880] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[01Mar2025 06:18:21.898] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[01Mar2025 06:18:21.900] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[01Mar2025 06:18:21.902] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[01Mar2025 06:18:21.902] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[01Mar2025 06:18:21.916] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[01Mar2025 06:18:21.921] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[01Mar2025 06:18:21.924] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
-[01Mar2025 06:18:22.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
-[01Mar2025 06:18:22.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
-[01Mar2025 06:18:23.017] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: UP_TO_DATE Current: 1.20.1-1.0.6 Target: null
-[01Mar2025 06:18:23.017] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Starting version check at https://assets.melanx.de/updates/morevanillaarmor.json
-[01Mar2025 06:18:23.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Found status: UP_TO_DATE Current: 1.20.1-5.1.2 Target: null
-[01Mar2025 06:18:23.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[01Mar2025 06:18:23.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
-[01Mar2025 06:18:23.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[01Mar2025 06:18:23.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
-[01Mar2025 06:18:23.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[01Mar2025 06:18:23.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[01Mar2025 06:18:23.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[01Mar2025 06:18:23.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[01Mar2025 06:18:23.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[01Mar2025 06:18:23.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA_OUTDATED Current: 1.9.2 Target: 1.9.3
-[01Mar2025 06:18:23.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
-[01Mar2025 06:18:23.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: UP_TO_DATE Current: 1.20.1-1.0.2 Target: null
-[01Mar2025 06:18:23.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
-[01Mar2025 06:18:23.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[01Mar2025 06:18:23.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeitweaker] Starting version check at https://updates.blamejared.com/get?n=JEITweaker&gv=1.20.1
-[01Mar2025 06:18:23.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeitweaker] Found status: BETA Current: 8.0.6 Target: 8.0.6
-[01Mar2025 06:18:23.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
-[01Mar2025 06:18:24.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.40 Target: 14.0.56
-[01Mar2025 06:18:24.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[01Mar2025 06:18:24.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[01Mar2025 06:18:24.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01Mar2025 06:18:24.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
-[01Mar2025 06:18:24.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[01Mar2025 06:18:24.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 17.0.16 Target: 17.1.19
-[01Mar2025 06:18:24.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[01Mar2025 06:18:24.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.6 Target: null
-[01Mar2025 06:18:24.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[01Mar2025 06:18:24.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: OUTDATED Current: 1.1.21 Target: 1.1.25
-[01Mar2025 06:18:24.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[01Mar2025 06:18:24.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.9-4 Target: null
-[01Mar2025 06:18:24.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[01Mar2025 06:18:25.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.8 Target: 1.9.12
-[01Mar2025 06:18:25.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[01Mar2025 06:18:25.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.22 Target: 3.4.26
-[01Mar2025 06:18:25.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[01Mar2025 06:18:25.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.25
-[01Mar2025 06:18:28.577] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01Mar2025 06:18:33.763] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/assets/.mcassetsroot' uses unexpected schema
-[01Mar2025 06:18:33.764] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/data/.mcassetsroot' uses unexpected schema
-[01Mar2025 06:18:33.962] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 46 ms
-[01Mar2025 06:18:36.076] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[01Mar2025 06:18:36.364] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_mangrove_planks as it is missing following references: chipped:mangrove_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:00:36.429] [main/WARN] [mixin/]: Error loading class: com/mcwdoors/kikoz/objects/JapaneseDoors (java.lang.ClassNotFoundException: com.mcwdoors.kikoz.objects.JapaneseDoors)
+[03Mar2025 07:00:36.430] [main/WARN] [mixin/]: @Mixin target com.mcwdoors.kikoz.objects.JapaneseDoors was not found forge-dramaticdoors_forge.mixins.json:JapaneseDoorBlockMixinForge
+[03Mar2025 07:00:36.933] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[03Mar2025 07:00:48.262] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[03Mar2025 07:00:48.263] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[03Mar2025 07:00:48.263] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[03Mar2025 07:00:48.263] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[03Mar2025 07:00:48.263] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[03Mar2025 07:00:48.263] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[03Mar2025 07:00:48.263] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[03Mar2025 07:00:50.376] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.68.
+[03Mar2025 07:00:50.699] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Mar2025 07:00:51.167] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[03Mar2025 07:00:51.211] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[03Mar2025 07:00:51.625] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03Mar2025 07:00:51.627] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03Mar2025 07:00:51.631] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03Mar2025 07:00:51.638] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03Mar2025 07:00:51.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03Mar2025 07:00:51.645] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03Mar2025 07:00:51.648] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03Mar2025 07:00:51.685] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[03Mar2025 07:00:52.278] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03Mar2025 07:00:52.279] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03Mar2025 07:00:52.510] [modloading-worker-0/INFO] [com.duart.mctb.MoreCraftingTables/]: MoreCraftingTables Loaded
+[03Mar2025 07:00:53.174] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[03Mar2025 07:00:53.321] [ForkJoinPool.commonPool-worker-1/INFO] [friendsandfoes/]: [Friends&Foes] An update is available! You are using 2.0.10 version, but the latest version is 3.0.7.
+[03Mar2025 07:00:53.851] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[03Mar2025 07:00:53.895] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03Mar2025 07:01:03.917] [main/INFO] [Moonlight/]: Initialized block sets in 37ms
+[03Mar2025 07:01:05.321] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[03Mar2025 07:01:06.616] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.617] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.617] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.617] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.618] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.618] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.618] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.618] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:01:06.620] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.620] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.621] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.621] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.621] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.621] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.623] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.623] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:01:06.624] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:01:06.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:01:06.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:01:06.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.631] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.633] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.641] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.641] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:01:06.642] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:01:07.127] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[03Mar2025 07:01:07.174] [modloading-worker-0/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using camera extension: .png
+[03Mar2025 07:01:07.174] [modloading-worker-0/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using easel extension: .png
+[03Mar2025 07:01:07.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[03Mar2025 07:01:07.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[03Mar2025 07:01:07.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[03Mar2025 07:01:08.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: OUTDATED Current: 4.3.1735 Target: 4.3.1893
+[03Mar2025 07:01:08.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[03Mar2025 07:01:08.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.17 Target: null
+[03Mar2025 07:01:08.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[03Mar2025 07:01:08.401] [main/INFO] [Supplementaries/]: Finished mod setup in: [33, 3, 0, 1, 0, 0, 16, 9, 1] ms
+[03Mar2025 07:01:08.497] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Mar2025 07:01:08.497] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Mar2025 07:01:08.497] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[03Mar2025 07:01:08.498] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[03Mar2025 07:01:08.498] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[03Mar2025 07:01:08.498] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[03Mar2025 07:01:08.498] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[03Mar2025 07:01:08.735] [main/INFO] [Moonlight/]: Initialized color sets in 220ms
+[03Mar2025 07:01:08.788] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[03Mar2025 07:01:08.789] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03Mar2025 07:01:08.790] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[03Mar2025 07:01:08.790] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03Mar2025 07:01:08.913] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[03Mar2025 07:01:08.932] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[03Mar2025 07:01:08.934] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[03Mar2025 07:01:08.936] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[03Mar2025 07:01:08.937] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[03Mar2025 07:01:08.952] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[03Mar2025 07:01:08.957] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[03Mar2025 07:01:08.959] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[03Mar2025 07:01:09.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
+[03Mar2025 07:01:09.154] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
+[03Mar2025 07:01:10.060] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: UP_TO_DATE Current: 1.20.1-1.0.6 Target: null
+[03Mar2025 07:01:10.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Starting version check at https://assets.melanx.de/updates/morevanillaarmor.json
+[03Mar2025 07:01:10.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Found status: UP_TO_DATE Current: 1.20.1-5.1.2 Target: null
+[03Mar2025 07:01:10.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[03Mar2025 07:01:10.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
+[03Mar2025 07:01:10.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[03Mar2025 07:01:10.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
+[03Mar2025 07:01:10.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[03Mar2025 07:01:10.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[03Mar2025 07:01:10.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[03Mar2025 07:01:10.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[03Mar2025 07:01:10.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[03Mar2025 07:01:10.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA_OUTDATED Current: 1.9.2 Target: 1.9.3
+[03Mar2025 07:01:10.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[03Mar2025 07:01:10.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: UP_TO_DATE Current: 1.20.1-1.0.2 Target: null
+[03Mar2025 07:01:10.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
+[03Mar2025 07:01:11.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[03Mar2025 07:01:11.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeitweaker] Starting version check at https://updates.blamejared.com/get?n=JEITweaker&gv=1.20.1
+[03Mar2025 07:01:11.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeitweaker] Found status: BETA Current: 8.0.6 Target: 8.0.6
+[03Mar2025 07:01:11.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
+[03Mar2025 07:01:11.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.40 Target: 14.0.57
+[03Mar2025 07:01:11.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[03Mar2025 07:01:11.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[03Mar2025 07:01:11.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Mar2025 07:01:11.629] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
+[03Mar2025 07:01:11.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[03Mar2025 07:01:11.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 17.0.16 Target: 17.1.19
+[03Mar2025 07:01:11.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[03Mar2025 07:01:11.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.6 Target: null
+[03Mar2025 07:01:11.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[03Mar2025 07:01:12.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: OUTDATED Current: 1.1.21 Target: 1.1.25
+[03Mar2025 07:01:12.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[03Mar2025 07:01:12.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.9-4 Target: null
+[03Mar2025 07:01:12.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03Mar2025 07:01:12.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.8 Target: 1.9.12
+[03Mar2025 07:01:12.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[03Mar2025 07:01:12.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.22 Target: 3.4.26
+[03Mar2025 07:01:12.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[03Mar2025 07:01:12.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.25
+[03Mar2025 07:01:17.795] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Mar2025 07:01:25.562] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/assets/.mcassetsroot' uses unexpected schema
+[03Mar2025 07:01:25.563] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/data/.mcassetsroot' uses unexpected schema
+[03Mar2025 07:01:25.926] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 148 ms
+[03Mar2025 07:01:28.779] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03Mar2025 07:01:29.160] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_mangrove_planks as it is missing following references: chipped:mangrove_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:mangrove_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_mangrove_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_mangrove_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -304,7 +304,7 @@
 	chipped:mangrove_planks_panel (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:natural_mangrove_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_mangrove_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.366] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_dark_oak_planks as it is missing following references: chipped:dark_oak_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.162] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_dark_oak_planks as it is missing following references: chipped:dark_oak_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:dark_oak_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_dark_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_dark_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -342,9 +342,7 @@
 	chipped:natural_dark_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_dark_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_dark_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.368] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag dramaticdoors:mob_openable_tall_metal_doors as it is missing following references: dramaticdoors:tall_macaw_store_door (from DramaticDoors-QuiFabrge-1.20.1-3.1.0_1.jar), 
-	dramaticdoors:tall_macaw_sliding_glass_door (from DramaticDoors-QuiFabrge-1.20.1-3.1.0_1.jar)
-[01Mar2025 06:18:36.370] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_birch_planks as it is missing following references: chipped:birch_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.163] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_birch_planks as it is missing following references: chipped:birch_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:birch_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_birch_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_birch_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -382,7 +380,7 @@
 	chipped:natural_birch_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_birch_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_birch_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.380] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_warped_planks as it is missing following references: chipped:warped_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.180] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_warped_planks as it is missing following references: chipped:warped_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:warped_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_warped_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_warped_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -420,7 +418,7 @@
 	chipped:natural_warped_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_warped_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_warped_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.381] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_crimson_planks as it is missing following references: chipped:crimson_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.182] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_crimson_planks as it is missing following references: chipped:crimson_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:crimson_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_crimson_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_crimson_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -458,7 +456,7 @@
 	chipped:natural_crimson_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_crimson_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_crimson_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.383] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_jungle_planks as it is missing following references: chipped:jungle_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.185] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_jungle_planks as it is missing following references: chipped:jungle_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:jungle_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_jungle_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_jungle_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -496,7 +494,7 @@
 	chipped:natural_jungle_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_jungle_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_jungle_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.383] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_bamboo_planks as it is missing following references: chipped:bamboo_planks_fine_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.186] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_bamboo_planks as it is missing following references: chipped:bamboo_planks_fine_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:bamboo_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_bamboo_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_bamboo_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -534,7 +532,7 @@
 	chipped:natural_bamboo_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:tied_bamboo_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_bamboo_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.394] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_spruce_planks as it is missing following references: chipped:spruce_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.188] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_spruce_planks as it is missing following references: chipped:spruce_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:spruce_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_spruce_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_spruce_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -572,7 +570,7 @@
 	chipped:natural_spruce_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_spruce_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_spruce_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.395] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:regions_unexplored_painted_planks as it is missing following references: regions_unexplored:red_painted_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.190] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:regions_unexplored_painted_planks as it is missing following references: regions_unexplored:red_painted_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	regions_unexplored:orange_painted_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	regions_unexplored:yellow_painted_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	regions_unexplored:lime_painted_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -588,7 +586,7 @@
 	regions_unexplored:gray_painted_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	regions_unexplored:light_gray_painted_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	regions_unexplored:white_painted_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.397] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_acacia_planks as it is missing following references: chipped:acacia_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.192] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_acacia_planks as it is missing following references: chipped:acacia_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:acacia_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_acacia_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_acacia_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -626,7 +624,7 @@
 	chipped:natural_acacia_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_acacia_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_acacia_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.399] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_oak_planks as it is missing following references: chipped:oak_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.194] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_oak_planks as it is missing following references: chipped:oak_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:oak_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -664,7 +662,7 @@
 	chipped:natural_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_oak_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:36.402] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_cherry_planks as it is missing following references: chipped:cherry_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
+[03Mar2025 07:01:29.198] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mctb:chipped_cherry_planks as it is missing following references: chipped:cherry_planks_mosaic (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:cherry_planks_shavings (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:basket_woven_cherry_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:boxed_cherry_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
@@ -702,7 +700,9 @@
 	chipped:natural_cherry_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:pegged_cherry_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar), 
 	chipped:whirlwind_cherry_planks (from [1.20.1]MoreCraftingTables-5.1.3.jar)
-[01Mar2025 06:18:37.694] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mctb:blocks/blossom_crafting_table
+[03Mar2025 07:01:29.218] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag dramaticdoors:mob_openable_tall_metal_doors as it is missing following references: dramaticdoors:tall_macaw_store_door (from DramaticDoors-QuiFabrge-1.20.1-3.1.0_1.jar), 
+	dramaticdoors:tall_macaw_sliding_glass_door (from DramaticDoors-QuiFabrge-1.20.1-3.1.0_1.jar)
+[03Mar2025 07:01:30.978] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mctb:blocks/blossom_crafting_table
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mctb:blossom_crafting_table'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -754,7 +754,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[01Mar2025 06:18:38.194] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:glacian_crafting_table
+[03Mar2025 07:01:31.505] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:glacian_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'ad_astra:glacian_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -792,7 +792,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ad_astra:glacian_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.225] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ru_palm_crafting_table
+[03Mar2025 07:01:31.529] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ru_palm_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:palm_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -830,7 +830,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:palm_plank
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.227] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:wigglewood_crafting_table
+[03Mar2025 07:01:31.532] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:wigglewood_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'undergarden:wigglewood_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -868,7 +868,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'undergarden:wigglewood_planks
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.231] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:baobab_crafting_table
+[03Mar2025 07:01:31.538] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:baobab_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:baobab_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -906,8 +906,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:baobab_pla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[01Mar2025 06:18:38.265] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:stonecutting/biomesoplenty/cherry_post
+[03Mar2025 07:01:31.560] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[03Mar2025 07:01:31.573] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:stonecutting/biomesoplenty/cherry_post
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -944,7 +944,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.287] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:bop_cherry_crafting_table
+[03Mar2025 07:01:31.631] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:bop_cherry_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -982,7 +982,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.300] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:kapok_crafting_table
+[03Mar2025 07:01:31.667] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:kapok_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:kapok_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1020,7 +1020,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:kapok_plan
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.322] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:demonic_planks_crafting_table
+[03Mar2025 07:01:31.724] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:demonic_planks_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:demonic_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1058,7 +1058,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:demonic_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.332] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/biomesoplenty/stripped_cherry_log
+[03Mar2025 07:01:31.731] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/biomesoplenty/stripped_cherry_log
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:stripped_cherry_log'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1097,10 +1097,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:stripped_cherry
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.338] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[01Mar2025 06:18:38.341] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[01Mar2025 06:18:38.356] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[01Mar2025 06:18:38.362] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_table
+[03Mar2025 07:01:31.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[03Mar2025 07:01:31.743] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[03Mar2025 07:01:31.763] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[03Mar2025 07:01:31.773] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_table
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1138,7 +1138,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.366] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:green_bioshroom_crafting_table
+[03Mar2025 07:01:31.778] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:green_bioshroom_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:green_bioshroom_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1176,7 +1176,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:green_bios
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.387] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:blue_bioshroom_crafting_table
+[03Mar2025 07:01:31.812] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:blue_bioshroom_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:blue_bioshroom_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1214,7 +1214,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:blue_biosh
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.396] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ru_redwood_crafting_table
+[03Mar2025 07:01:31.827] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ru_redwood_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:redwood_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1252,7 +1252,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:redwood_pl
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.398] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_platform
+[03Mar2025 07:01:31.831] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_platform
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1290,7 +1290,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.404] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:blossom_crafting_table
+[03Mar2025 07:01:31.845] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:blossom_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1328,7 +1328,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.411] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:soul_planks_crafting_table
+[03Mar2025 07:01:31.848] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:soul_planks_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:soul_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1366,7 +1366,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:soul_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.420] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_shelf
+[03Mar2025 07:01:31.852] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_shelf
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1404,7 +1404,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.426] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/biomesoplenty/cherry_log
+[03Mar2025 07:01:31.865] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/biomesoplenty/cherry_log
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_log'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1443,7 +1443,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_log'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.434] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dramaticdoors:short_silver_door
+[03Mar2025 07:01:31.876] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dramaticdoors:short_silver_door
 com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:silver_door'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1480,7 +1480,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:silver_door'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.437] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_coffee_table
+[03Mar2025 07:01:31.878] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_coffee_table
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1518,7 +1518,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.442] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:archwood_planks_crafting_table
+[03Mar2025 07:01:31.885] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:archwood_planks_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:archwood_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1556,7 +1556,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:archwood_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.447] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:stonecutting/biomesoplenty/cherry_step
+[03Mar2025 07:01:31.890] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:stonecutting/biomesoplenty/cherry_step
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1593,7 +1593,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.452] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_kitchen_counter
+[03Mar2025 07:01:31.894] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_kitchen_counter
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1631,7 +1631,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.454] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe supplementaries:slice_map
+[03Mar2025 07:01:31.896] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe supplementaries:slice_map
 com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at net.minecraftforge.common.crafting.conditions.TagEmptyCondition$Serializer.read(TagEmptyCondition.java:68) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
@@ -1666,7 +1666,7 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.468] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ru_willow_crafting_table
+[03Mar2025 07:01:31.916] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ru_willow_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:willow_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1704,7 +1704,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:willow_pla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.478] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:brimwood_crafting_table
+[03Mar2025 07:01:31.937] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:brimwood_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:brimwood_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1742,7 +1742,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:brimwood_p
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.480] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:joshua_crafting_table
+[03Mar2025 07:01:31.941] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:joshua_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:joshua_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1780,7 +1780,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:joshua_pla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:alpha_crafting_table
+[03Mar2025 07:01:31.948] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:alpha_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:alpha_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1818,8 +1818,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:alpha_plan
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.484] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[01Mar2025 06:18:38.485] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:cypress_crafting_table
+[03Mar2025 07:01:31.952] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[03Mar2025 07:01:31.953] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:cypress_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:cypress_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1857,7 +1857,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:cypress_pl
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.499] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:strophar_crafting_table
+[03Mar2025 07:01:31.996] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:strophar_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'ad_astra:strophar_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1895,7 +1895,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ad_astra:strophar_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.502] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:rubber_planks_crafting_table
+[03Mar2025 07:01:32.013] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:rubber_planks_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'gtceu:rubber_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1933,7 +1933,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'gtceu:rubber_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.504] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:blackwood_crafting_table
+[03Mar2025 07:01:32.166] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:blackwood_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:blackwood_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1971,7 +1971,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:blackwood_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.505] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/biomesoplenty/cherry_wood
+[03Mar2025 07:01:32.168] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/biomesoplenty/cherry_wood
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_wood'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2010,7 +2010,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_wood'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.507] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_post
+[03Mar2025 07:01:32.175] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_post
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2048,8 +2048,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[01Mar2025 06:18:38.520] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:larch_crafting_table
+[03Mar2025 07:01:32.179] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[03Mar2025 07:01:32.197] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:larch_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:larch_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2087,7 +2087,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:larch_plan
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ad_ancient_crafting_table
+[03Mar2025 07:01:32.199] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ad_ancient_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'naturesaura:ancient_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2125,7 +2125,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'naturesaura:ancient_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.524] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dramaticdoors:tall_lead_door
+[03Mar2025 07:01:32.202] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dramaticdoors:tall_lead_door
 com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:lead_door'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2163,7 +2163,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:lead_door'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.531] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:cobalt_crafting_table
+[03Mar2025 07:01:32.209] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:cobalt_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:cobalt_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2201,7 +2201,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:cobalt_pla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.533] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:pine_crafting_table
+[03Mar2025 07:01:32.211] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:pine_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pine_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2239,7 +2239,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pine_plank
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.539] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_bench
+[03Mar2025 07:01:32.218] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_bench
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2277,7 +2277,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.541] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:grongle_crafting_table
+[03Mar2025 07:01:32.219] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:grongle_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'undergarden:grongle_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2315,7 +2315,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'undergarden:grongle_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:magnolia_crafting_table
+[03Mar2025 07:01:32.227] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:magnolia_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:magnolia_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2353,7 +2353,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:magnolia_p
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.598] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_chair
+[03Mar2025 07:01:32.230] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_chair
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2391,7 +2391,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.606] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:eucalyptus_crafting_table
+[03Mar2025 07:01:32.236] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:eucalyptus_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:eucalyptus_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2429,7 +2429,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:eucalyptus
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.613] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dramaticdoors:short_lead_door
+[03Mar2025 07:01:32.417] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dramaticdoors:short_lead_door
 com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:lead_door'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2466,7 +2466,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:lead_door'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.622] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:mauve_crafting_table
+[03Mar2025 07:01:32.429] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:mauve_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:mauve_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2504,7 +2504,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:mauve_plan
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.627] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:stonecutting/biomesoplenty/cherry_platform
+[03Mar2025 07:01:32.440] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:stonecutting/biomesoplenty/cherry_platform
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2541,7 +2541,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.629] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/biomesoplenty/stripped_cherry_wood
+[03Mar2025 07:01:32.442] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/compat/biomesoplenty/stripped_cherry_wood
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:stripped_cherry_wood'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2580,7 +2580,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:stripped_cherry
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.630] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:azalea_crafting_table
+[03Mar2025 07:01:32.443] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:azalea_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2618,8 +2618,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.656] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[01Mar2025 06:18:38.658] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:aeronos_crafting_table
+[03Mar2025 07:01:32.465] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[03Mar2025 07:01:32.466] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:aeronos_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'ad_astra:aeronos_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2657,7 +2657,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ad_astra:aeronos_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.666] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ancient_planks_crafting_table
+[03Mar2025 07:01:32.468] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ancient_planks_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:ancient_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2695,7 +2695,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:ancient_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.678] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:smogstem_crafting_table
+[03Mar2025 07:01:32.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:smogstem_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'undergarden:smogstem_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2733,7 +2733,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'undergarden:smogstem_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.688] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:maple_crafting_table
+[03Mar2025 07:01:32.490] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:maple_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:maple_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2771,7 +2771,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:maple_plan
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.691] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ru_dead_crafting_table
+[03Mar2025 07:01:32.491] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ru_dead_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:dead_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2809,7 +2809,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:dead_plank
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.697] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_step
+[03Mar2025 07:01:32.498] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_step
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2847,7 +2847,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.757] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ancient_crafting_table
+[03Mar2025 07:01:32.501] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:ancient_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'quark:ancient_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2885,8 +2885,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'quark:ancient_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.759] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[01Mar2025 06:18:38.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:menril_planks_crafting_table
+[03Mar2025 07:01:32.506] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[03Mar2025 07:01:32.507] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:menril_planks_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'integrateddynamics:menril_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2924,7 +2924,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'integrateddynamics:menril_pla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.770] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:yellow_bioshroom_crafting_table
+[03Mar2025 07:01:32.519] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:yellow_bioshroom_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:yellow_bioshroom_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2962,7 +2962,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:yellow_bio
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.772] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:echo_planks_crafting_table
+[03Mar2025 07:01:32.639] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:echo_planks_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'deeperdarker:echo_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3000,7 +3000,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'deeperdarker:echo_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.781] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:socotra_crafting_table
+[03Mar2025 07:01:32.646] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:socotra_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:socotra_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3038,7 +3038,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:socotra_pl
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.784] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dramaticdoors:tall_silver_door
+[03Mar2025 07:01:32.647] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dramaticdoors:tall_silver_door
 com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:silver_door'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3076,7 +3076,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:silver_door'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.788] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_drawer
+[03Mar2025 07:01:32.651] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe adorn:biomesoplenty/cherry_drawer
 com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3114,7 +3114,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.800] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:walnut_planks_crafting_table
+[03Mar2025 07:01:32.668] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:walnut_planks_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'caupona:walnut_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3152,9 +3152,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'caupona:walnut_planks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[01Mar2025 06:18:38.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[01Mar2025 06:18:38.811] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:pink_bioshroom_crafting_table
+[03Mar2025 07:01:32.673] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[03Mar2025 07:01:32.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[03Mar2025 07:01:32.681] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mctb:pink_bioshroom_crafting_table
 com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_bioshroom_planks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3192,31 +3192,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:38.820] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[01Mar2025 06:18:38.827] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 45 recipes
-[01Mar2025 06:18:38.843] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/short_lead_door: Unknown item id 'supplementaries:lead_door'
-[01Mar2025 06:18:38.852] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_post: Unknown item id 'biomesoplenty:cherry_planks'
-[01Mar2025 06:18:38.866] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_shelf: Unknown item id 'biomesoplenty:cherry_slab'
-[01Mar2025 06:18:38.918] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/short_silver_door: Unknown item id 'supplementaries:silver_door'
-[01Mar2025 06:18:38.929] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_chair: Unknown item id 'biomesoplenty:cherry_slab'
-[01Mar2025 06:18:38.935] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_lead_door: Unknown item id 'supplementaries:lead_door'
-[01Mar2025 06:18:38.957] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_drawer: Unknown item id 'biomesoplenty:cherry_slab'
-[01Mar2025 06:18:38.971] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_bench: Unknown item id 'biomesoplenty:cherry_slab'
-[01Mar2025 06:18:39.004] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_platform: Unknown item id 'biomesoplenty:cherry_slab'
-[01Mar2025 06:18:39.013] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_coffee_table: Unknown item id 'biomesoplenty:cherry_slab'
-[01Mar2025 06:18:39.013] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_kitchen_sink: Unknown item id 'biomesoplenty:cherry_planks'
-[01Mar2025 06:18:39.029] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_silver_door: Unknown item id 'supplementaries:silver_door'
-[01Mar2025 06:18:39.034] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_table: Unknown item id 'biomesoplenty:cherry_slab'
-[01Mar2025 06:18:39.038] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_kitchen_cupboard: Unknown item id 'biomesoplenty:cherry_planks'
-[01Mar2025 06:18:39.053] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_step: Unknown item id 'biomesoplenty:cherry_slab'
-[01Mar2025 06:18:39.057] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_kitchen_counter: Unknown item id 'biomesoplenty:cherry_planks'
-[01Mar2025 06:18:39.120] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7248 advancements
-[01Mar2025 06:18:39.124] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[01Mar2025 06:18:39.134] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[01Mar2025 06:18:39.140] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[01Mar2025 06:18:39.155] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[01Mar2025 06:18:39.160] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[01Mar2025 06:18:39.230] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[03Mar2025 07:01:32.689] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[03Mar2025 07:01:32.699] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 45 recipes
+[03Mar2025 07:01:32.718] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/short_lead_door: Unknown item id 'supplementaries:lead_door'
+[03Mar2025 07:01:32.731] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_post: Unknown item id 'biomesoplenty:cherry_planks'
+[03Mar2025 07:01:32.745] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_shelf: Unknown item id 'biomesoplenty:cherry_slab'
+[03Mar2025 07:01:32.785] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/short_silver_door: Unknown item id 'supplementaries:silver_door'
+[03Mar2025 07:01:32.797] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_chair: Unknown item id 'biomesoplenty:cherry_slab'
+[03Mar2025 07:01:32.802] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_lead_door: Unknown item id 'supplementaries:lead_door'
+[03Mar2025 07:01:32.828] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_drawer: Unknown item id 'biomesoplenty:cherry_slab'
+[03Mar2025 07:01:32.844] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_bench: Unknown item id 'biomesoplenty:cherry_slab'
+[03Mar2025 07:01:32.892] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_platform: Unknown item id 'biomesoplenty:cherry_slab'
+[03Mar2025 07:01:32.912] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_coffee_table: Unknown item id 'biomesoplenty:cherry_slab'
+[03Mar2025 07:01:32.913] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_kitchen_sink: Unknown item id 'biomesoplenty:cherry_planks'
+[03Mar2025 07:01:32.942] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement dramaticdoors:recipes/redstone/tall_silver_door: Unknown item id 'supplementaries:silver_door'
+[03Mar2025 07:01:32.954] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_table: Unknown item id 'biomesoplenty:cherry_slab'
+[03Mar2025 07:01:32.959] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_kitchen_cupboard: Unknown item id 'biomesoplenty:cherry_planks'
+[03Mar2025 07:01:32.974] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_step: Unknown item id 'biomesoplenty:cherry_slab'
+[03Mar2025 07:01:32.980] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement adorn:recipes/biomesoplenty/cherry_kitchen_counter: Unknown item id 'biomesoplenty:cherry_planks'
+[03Mar2025 07:01:33.061] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7248 advancements
+[03Mar2025 07:01:33.066] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[03Mar2025 07:01:33.081] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[03Mar2025 07:01:33.098] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[03Mar2025 07:01:33.112] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[03Mar2025 07:01:33.122] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[03Mar2025 07:01:33.230] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -3277,8 +3277,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:39.233] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
-[01Mar2025 06:18:39.233] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[03Mar2025 07:01:33.235] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[03Mar2025 07:01:33.235] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -3339,123 +3339,113 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01Mar2025 06:18:39.235] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
-[01Mar2025 06:18:44.234] [main/INFO] [Supplementaries/]: Finished additional setup in 18 ms
-[01Mar2025 06:18:44.270] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[01Mar2025 06:18:44.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[01Mar2025 06:18:44.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01Mar2025 06:18:44.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01Mar2025 06:18:44.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01Mar2025 06:18:44.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01Mar2025 06:18:44.886] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[01Mar2025 06:18:45.035] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[01Mar2025 06:18:45.037] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[01Mar2025 06:18:45.038] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[01Mar2025 06:18:45.270] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[01Mar2025 06:18:45.270] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[01Mar2025 06:18:45.270] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[01Mar2025 06:18:45.270] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[01Mar2025 06:18:45.271] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[01Mar2025 06:18:45.272] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[01Mar2025 06:18:45.272] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[01Mar2025 06:18:45.272] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[01Mar2025 06:18:45.272] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[01Mar2025 06:18:45.273] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[01Mar2025 06:18:45.277] [Server thread/INFO] [Framework/]: Loading server configs...
-[01Mar2025 06:18:45.309] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[01Mar2025 06:18:45.743] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[01Mar2025 06:18:45.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01Mar2025 06:18:56.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01Mar2025 06:19:05.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.236] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.237] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.237] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.238] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.238] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.239] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.240] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.240] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.241] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.241] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.242] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.243] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.243] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.244] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.244] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.245] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.245] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.248] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Mar2025 06:19:05.531] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[01Mar2025 06:19:06.031] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[01Mar2025 06:19:06.292] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.292] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.292] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.293] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.293] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.293] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.293] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.294] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:19:06.294] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.294] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.294] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.294] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.295] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.295] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.295] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.295] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.296] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.296] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.296] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.296] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:19:06.297] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.297] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.297] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:19:06.297] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.298] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:19:06.301] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[01Mar2025 06:19:06.301] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.301] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.302] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.302] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.302] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.302] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.303] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.303] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.303] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.303] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.304] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[01Mar2025 06:19:06.438] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10408 ms
-[01Mar2025 06:19:06.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.436s)! For help, type "help"
-[01Mar2025 06:19:06.534] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01Mar2025 06:19:06.540] [pool-5-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Start checksum threadpool for size=4
-[01Mar2025 06:19:06.567] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[01Mar2025 06:19:06.568] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[01Mar2025 06:19:06.569] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[01Mar2025 06:19:06.689] [pool-11-thread-2/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Shutdown checksum threadpool after computing checksum count=4
-[01Mar2025 06:19:13.085] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
-[01Mar2025 06:19:18.225] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[01Mar2025 06:19:18.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.146.63.2:41545] logged in with entity id 15 at (-2383.2169196792156, 65.0, -1584.2261938241209)
-[01Mar2025 06:19:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
-[01Mar2025 06:19:18.669] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
-[01Mar2025 06:19:20.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
-[01Mar2025 06:39:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A large Graveyard horde of undead appeared at -2457 69 -1510.
-[01Mar2025 06:41:13.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2456.500000, 69.500000, -1509.500000]
-[01Mar2025 06:49:01.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
-[01Mar2025 06:49:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
-[01Mar2025 06:49:10.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[01Mar2025 06:49:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[01Mar2025 06:49:10.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[01Mar2025 06:49:10.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[01Mar2025 06:49:11.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01Mar2025 06:49:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[01Mar2025 06:49:11.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[01Mar2025 06:49:11.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01Mar2025 06:49:11.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01Mar2025 06:49:11.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Mar2025 06:49:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01Mar2025 06:49:11.735] [Server thread/INFO] [Framework/]: Unloading server configs...
-[01Mar2025 06:49:11.736] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[03Mar2025 07:01:33.237] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[03Mar2025 07:01:40.727] [main/INFO] [Supplementaries/]: Finished additional setup in 20 ms
+[03Mar2025 07:01:40.774] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[03Mar2025 07:01:41.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Mar2025 07:01:41.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Mar2025 07:01:41.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Mar2025 07:01:41.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Mar2025 07:01:41.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Mar2025 07:01:41.542] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Mar2025 07:01:41.713] [Thread-2/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using camera extension: .png
+[03Mar2025 07:01:41.713] [Thread-2/INFO] [com.dairymoose.modernlife.core.ModernLifeConfig/]: Using easel extension: .png
+[03Mar2025 07:01:41.743] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[03Mar2025 07:01:41.744] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[03Mar2025 07:01:41.745] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[03Mar2025 07:01:42.430] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[03Mar2025 07:01:42.430] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[03Mar2025 07:01:42.431] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[03Mar2025 07:01:42.431] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[03Mar2025 07:01:42.431] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[03Mar2025 07:01:42.436] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[03Mar2025 07:01:42.436] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[03Mar2025 07:01:42.436] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[03Mar2025 07:01:42.436] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[03Mar2025 07:01:42.436] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[03Mar2025 07:01:42.441] [Server thread/INFO] [Framework/]: Loading server configs...
+[03Mar2025 07:01:42.496] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03Mar2025 07:01:43.042] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Mar2025 07:01:43.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Mar2025 07:01:54.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Mar2025 07:01:58.290] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:01:58.346] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:01:58.355] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.165] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.217] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.248] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.257] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.294] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.318] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.333] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.562] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.578] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.590] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.598] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.600] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.625] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.681] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.708] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.759] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:05.861] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:06.376] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:07.007] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:07.362] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:08.051] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:08.359] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 07:02:08.863] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[03Mar2025 07:02:09.359] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
+[03Mar2025 07:02:09.502] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.503] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.504] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.504] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.505] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.505] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.506] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.506] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:02:09.507] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.508] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.508] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.508] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.509] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.509] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.509] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.510] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.510] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.510] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.510] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.511] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:02:09.511] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.511] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.511] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:02:09.512] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.512] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:02:09.512] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[03Mar2025 07:02:09.512] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.513] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.513] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.513] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.513] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.514] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.514] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.514] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.514] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.514] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.515] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Mar2025 07:02:09.650] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14791 ms
+[03Mar2025 07:02:09.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.948s)! For help, type "help"
+[03Mar2025 07:02:09.766] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Mar2025 07:02:09.771] [pool-5-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Start checksum threadpool for size=4
+[03Mar2025 07:02:09.812] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[03Mar2025 07:02:09.812] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[03Mar2025 07:02:09.812] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[03Mar2025 07:02:09.952] [pool-11-thread-2/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Shutdown checksum threadpool after computing checksum count=4
+[03Mar2025 07:02:59.714] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[03Mar2025 07:03:05.316] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03Mar2025 07:03:05.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.146.63.2:53467] logged in with entity id 15 at (-2418.7215719942683, 64.0, -1586.4072446596447)
+[03Mar2025 07:03:05.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[03Mar2025 07:03:05.728] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[03Mar2025 07:03:07.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
