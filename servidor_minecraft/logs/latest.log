@@ -3434,3 +3434,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 05:18:01.753] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [04Mar2025 05:18:01.754] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [04Mar2025 05:18:01.872] [pool-11-thread-4/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Shutdown checksum threadpool after computing checksum count=4
+[04Mar2025 05:26:48.886] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[04Mar2025 05:26:54.357] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[04Mar2025 05:26:54.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.146.63.2:35957] logged in with entity id 15 at (-2416.427097866931, 64.0, -1551.7328733341274)
+[04Mar2025 05:26:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[04Mar2025 05:26:54.709] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[04Mar2025 05:26:56.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind

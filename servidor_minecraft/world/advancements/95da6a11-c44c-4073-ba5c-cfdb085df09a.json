@@ -11178,39 +11178,21 @@
     },
     "done": true
   },
-  "graveyard:graveyard/crypt": {
-    "criteria": {
-      "crypt": "2025-03-03 07:47:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-03-03 07:36:13 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/brewery": {
     "criteria": {
       "has_alt_item": "2025-03-03 07:27:11 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/la_cucaracha": {
+  "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
-      "tame": "2025-03-03 08:00:44 +0000"
+      "has_alt_item": "2025-03-03 07:27:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "supplementaries:recipes/globe_sepia": {
     "criteria": {
-      "has_clay_ball": "2025-03-03 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-03-03 07:36:53 +0000"
+      "has_antique_ink": "2025-03-03 07:27:13 +0000"
     },
     "done": true
   },
@@ -11232,39 +11214,21 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2025-03-03 07:28:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-03-03 07:28:48 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-03-03 07:32:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_antique_ink": "2025-03-03 07:27:13 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-03-03 08:00:24 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/transportation/ghost_rail": {
     "criteria": {
       "has_item": "2025-03-03 07:28:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-03-03 07:28:53 +0000"
     },
     "done": true
   },
@@ -11280,21 +11244,57 @@
     },
     "done": true
   },
-  "adorn:candlelit_lantern": {
-    "criteria": {
-      "has_candlelit_lantern": "2025-03-03 08:07:18 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-03-03 07:28:53 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/alchemy_catalyst": {
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
-      "has_alt_item": "2025-03-03 07:27:11 +0000"
+      "has_item": "2025-03-03 07:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-03 07:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-03 07:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-03-03 07:36:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-03-03 07:47:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-03-03 08:00:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-03-03 08:00:44 +0000"
+    },
+    "done": true
+  },
+  "adorn:candlelit_lantern": {
+    "criteria": {
+      "has_candlelit_lantern": "2025-03-03 08:07:18 +0000"
     },
     "done": true
   },
