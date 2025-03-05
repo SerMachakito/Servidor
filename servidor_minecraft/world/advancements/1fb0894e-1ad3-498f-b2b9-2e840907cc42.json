@@ -10809,7 +10809,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-02-21 07:48:46 +0000"
+      "sugar_cane": "2025-02-21 07:48:46 +0000",
+      "potato": "2025-03-05 02:14:18 +0000",
+      "wheat": "2025-03-05 02:13:52 +0000"
     },
     "done": false
   },
@@ -11155,6 +11157,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-03-05 02:13:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
@@ -11224,6 +11232,12 @@
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-05 02:13:25 +0000"
     },
     "done": true
   },
@@ -11302,6 +11316,12 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-05 02:13:52 +0000"
     },
     "done": true
   },

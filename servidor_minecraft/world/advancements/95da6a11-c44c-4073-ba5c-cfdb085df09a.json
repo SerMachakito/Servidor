@@ -11311,6 +11311,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 02:20:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/ender_eye_block": {
     "criteria": {
       "has_item": "2025-03-05 02:02:58 +0000"
@@ -11329,6 +11335,24 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-05 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime_double": {
+    "criteria": {
+      "has_item": "2025-03-05 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-03-05 02:13:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/canvas": {
     "criteria": {
       "has_straw": "2025-03-05 02:11:12 +0000"
@@ -11341,9 +11365,33 @@
     },
     "done": true
   },
+  "adorn:recipes/mug": {
+    "criteria": {
+      "has_glass_bottle": "2025-03-05 02:21:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-03-05 02:10:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-03-05 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 02:20:48 +0000"
     },
     "done": true
   },
@@ -11359,9 +11407,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_item": "2025-03-05 02:13:32 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/ender_hand": {
     "criteria": {
       "has_alt_item": "2025-03-05 02:02:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-03-05 02:13:10 +0000"
     },
     "done": true
   },
@@ -11380,6 +11440,12 @@
   "farmersdelight:recipes/decorations/rope": {
     "criteria": {
       "has_straw": "2025-03-05 02:11:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-03-05 02:12:38 +0000"
     },
     "done": true
   },
@@ -11407,9 +11473,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 02:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-05 02:20:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2025-03-05 02:11:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-03-05 02:13:10 +0000"
     },
     "done": true
   },
