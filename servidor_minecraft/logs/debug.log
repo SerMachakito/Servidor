@@ -13736,3 +13736,150 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 02:55:53.077] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: check camera
 [05Mar2025 02:56:03.998] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundPrintSizePacket
 [05Mar2025 02:56:03.998] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: check camera
+[05Mar2025 02:56:37.741] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasCopyRequestPacket
+[05Mar2025 02:56:47.731] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasCopyRequestPacket
+[05Mar2025 02:56:52.525] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundRequestCanvasPacket
+[05Mar2025 02:56:52.525] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 64
+[05Mar2025 02:56:52.525] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 64
+[05Mar2025 02:56:52.525] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[05Mar2025 02:56:52.526] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: sent reply to canvas request
+[05Mar2025 02:56:58.099] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundPrintSizePacket
+[05Mar2025 02:56:58.099] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: check camera
+[05Mar2025 02:57:00.126] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundRequestCanvasPacket
+[05Mar2025 02:57:00.127] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 64
+[05Mar2025 02:57:00.127] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 64
+[05Mar2025 02:57:00.127] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[05Mar2025 02:57:00.127] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: sent reply to canvas request
+[05Mar2025 02:57:11.778] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundPrintSizePacket
+[05Mar2025 02:57:11.778] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: check camera
+[05Mar2025 02:57:35.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 02:57:35.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 02:58:48.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by Mutant Skeleton
+[05Mar2025 02:58:50.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[05Mar2025 02:59:27.409] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=09e265cc-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[05Mar2025 02:59:42.577] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=09e265cc-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[05Mar2025 02:59:49.830] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: 1fb0894e-1ad3-498f-b2b9-2e840907cc42 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=09e265cc-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[05Mar2025 02:59:51.730] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: 1fb0894e-1ad3-498f-b2b9-2e840907cc42 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=09e265cc-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[05Mar2025 03:01:26.022] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05Mar2025 03:01:26.022] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 3, server=686731592, client=686731592
+[05Mar2025 03:02:35.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 03:02:35.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 03:02:42.980] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05Mar2025 03:02:42.980] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 3, server=686731592, client=686731592
+[05Mar2025 03:03:18.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[05Mar2025 03:03:33.678] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=6b0a2974-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[05Mar2025 03:03:37.260] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=6b0a2974-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[05Mar2025 03:04:42.326] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[05Mar2025 03:04:51.974] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[05Mar2025 03:05:09.021] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=6b0a2974-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[05Mar2025 03:05:29.427] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[05Mar2025 03:05:38.695] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=09e265cc-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[05Mar2025 03:05:44.728] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[05Mar2025 03:05:54.474] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[05Mar2025 03:05:58.451] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.451] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.451] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.451] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.455] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.455] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.455] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.455] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.478] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.484] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.484] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.484] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.484] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.493] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.493] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.494] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.494] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.498] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.498] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.498] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.499] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.499] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.499] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.503] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.503] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.503] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.503] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.507] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.507] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.527] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.529] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.529] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.529] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.529] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.532] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.532] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.533] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.533] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.533] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.533] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.535] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.535] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.536] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.536] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.539] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.539] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.539] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.539] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.542] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.542] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.542] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.542] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.574] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.574] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.574] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[05Mar2025 03:05:58.574] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[05Mar2025 03:05:58.575] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: image length = 1345787
+[05Mar2025 03:05:58.617] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save to: ./world/./modernlife/ as type: png
+[05Mar2025 03:05:58.776] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1280
+[05Mar2025 03:05:58.776] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 720
+[05Mar2025 03:05:58.776] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[05Mar2025 03:05:58.921] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[05Mar2025 03:05:59.608] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=09e265cc-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[05Mar2025 03:06:08.847] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundPrintSizePacket
+[05Mar2025 03:06:08.847] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: check camera
+[05Mar2025 03:06:08.856] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: finished checking camera
+[05Mar2025 03:06:14.283] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundRequestCanvasPacket
+[05Mar2025 03:06:14.314] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1280
+[05Mar2025 03:06:14.314] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 720
+[05Mar2025 03:06:14.314] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[05Mar2025 03:06:14.431] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: sent reply to canvas request
+[05Mar2025 03:06:24.892] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundPrintSizePacket
+[05Mar2025 03:06:24.893] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: check camera

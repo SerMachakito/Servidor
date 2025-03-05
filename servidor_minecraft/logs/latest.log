@@ -3470,3 +3470,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 02:29:11.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Fire Dragon
 [05Mar2025 02:29:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
 [05Mar2025 02:32:22.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has reached the goal [Statue's Bargain]
+[05Mar2025 02:58:48.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by Mutant Skeleton
+[05Mar2025 02:58:50.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
