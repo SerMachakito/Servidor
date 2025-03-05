@@ -3466,3 +3466,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 02:13:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [A Seedy Place]
 [05Mar2025 02:14:32.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
 [05Mar2025 02:21:55.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by FilthyDread
+[05Mar2025 02:29:06.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -3048.500000, -12.500000, -728.500000]
+[05Mar2025 02:29:11.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Fire Dragon
+[05Mar2025 02:29:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[05Mar2025 02:32:22.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has reached the goal [Statue's Bargain]
