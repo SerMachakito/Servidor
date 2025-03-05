@@ -3501,3 +3501,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 03:46:40.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.146.63.2:39587] logged in with entity id 224827 at (-2386.8533624685065, 63.87009692826185, -1598.824416712142)
 [05Mar2025 03:46:40.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
 [05Mar2025 03:46:40.722] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[05Mar2025 03:47:53.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread lost connection: Timed out
+[05Mar2025 03:47:53.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread left the game
+[05Mar2025 03:47:55.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Timed out
+[05Mar2025 03:47:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[05Mar2025 03:48:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Mar2025 03:48:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[05Mar2025 03:48:18.949] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FilthyDread is 1fb0894e-1ad3-498f-b2b9-2e840907cc42
+[05Mar2025 03:48:19.462] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[05Mar2025 03:48:23.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FilthyDread[/127.168.2.27:37579] logged in with entity id 226256 at (-2429.833196281534, 56.847774505044654, -1584.1403186825755)
+[05Mar2025 03:48:23.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread joined the game
+[05Mar2025 03:48:23.922] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
+[05Mar2025 03:48:24.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.146.63.2:55695] logged in with entity id 226288 at (-2416.5360241728513, 64.5, -1549.2176839233496)
+[05Mar2025 03:48:24.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[05Mar2025 03:48:24.794] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[05Mar2025 03:55:25.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Day at the Market]
