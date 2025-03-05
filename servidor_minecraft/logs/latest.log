@@ -3516,3 +3516,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 03:48:24.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
 [05Mar2025 03:48:24.794] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
 [05Mar2025 03:55:25.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Day at the Market]
+[05Mar2025 03:59:07.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -3157.500000, 63.500000, -4385.500000]
+[05Mar2025 03:59:48.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -3138.500000, 78.500000, -2056.500000]
+[05Mar2025 03:59:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to ELMACHAKITO]
+[05Mar2025 04:00:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[05Mar2025 04:00:19.282] [pool-501-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-3221, y=74, z=-4747}
+[05Mar2025 04:00:19.831] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3221, y=74, z=-4747} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[05Mar2025 04:00:19.831] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3221, y=74, z=-4747}
+[05Mar2025 04:01:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2421.500000, 75.500000, -1582.500000]
+[05Mar2025 04:02:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Cyclops
+[05Mar2025 04:02:41.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[05Mar2025 04:02:50.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2413, y=65, z=-1543} BlockPos{x=-2418, y=65, z=-1536}
+[05Mar2025 04:03:36.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread lost connection: Disconnected
+[05Mar2025 04:03:36.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread left the game
+[05Mar2025 04:04:03.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2418, y=64, z=-1536} BlockPos{x=-2414, y=66, z=-1542}
+[05Mar2025 04:04:06.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2414, y=65, z=-1542} BlockPos{x=-2413, y=66, z=-1542}
+[05Mar2025 04:04:10.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2413, y=65, z=-1542} BlockPos{x=-2413, y=66, z=-1540}
+[05Mar2025 04:05:37.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set the time to 13000]
+[05Mar2025 04:05:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set the time to 18000]
+[05Mar2025 04:07:24.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[05Mar2025 04:07:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[05Mar2025 04:07:33.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Mar2025 04:07:33.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Mar2025 04:07:33.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Mar2025 04:07:33.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Mar2025 04:07:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Mar2025 04:07:33.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05Mar2025 04:07:33.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Mar2025 04:07:33.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Mar2025 04:07:33.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Mar2025 04:07:33.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Mar2025 04:07:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05Mar2025 04:07:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Mar2025 04:07:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Mar2025 04:07:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Mar2025 04:07:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Mar2025 04:07:34.029] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Mar2025 04:07:34.031] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
