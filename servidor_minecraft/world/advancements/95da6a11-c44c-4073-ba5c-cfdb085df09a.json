@@ -11337,9 +11337,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-05 03:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-03-05 03:12:06 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-05 03:23:35 +0000"
     },
     "done": true
   },
@@ -11385,6 +11397,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-05 03:23:35 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-05 03:23:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
     "criteria": {
       "has_straw": "2025-03-05 02:11:12 +0000"
@@ -11412,6 +11436,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-03-05 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-05 03:23:35 +0000"
     },
     "done": true
   },
@@ -11484,6 +11514,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2025-03-05 02:11:12 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-05 03:23:35 +0000"
     },
     "done": true
   },
