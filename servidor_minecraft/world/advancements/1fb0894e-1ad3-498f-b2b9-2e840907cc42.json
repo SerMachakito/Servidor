@@ -11139,6 +11139,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
@@ -11148,6 +11160,12 @@
   "botania:recipes/tools/itemfinder": {
     "criteria": {
       "has_item": "2025-03-05 02:03:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shelf": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
     },
     "done": true
   },
@@ -11166,6 +11184,18 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-03-05 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
     },
     "done": true
   },
@@ -11193,6 +11223,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/ender_eye_block": {
     "criteria": {
       "has_item": "2025-03-05 02:03:05 +0000"
@@ -11217,6 +11259,36 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-05 03:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-03-05 02:34:20 +0000"
@@ -11226,6 +11298,12 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-03-05 03:22:09 +0000"
     },
     "done": true
   },
@@ -11247,9 +11325,33 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-03-05 02:03:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
     },
     "done": true
   },
@@ -11265,9 +11367,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_planks": "2025-03-05 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-05 03:22:09 +0000"
     },
     "done": true
   },
@@ -11295,6 +11415,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/cherry_seat": {
     "criteria": {
       "has_plank": "2025-03-05 02:34:20 +0000"
@@ -11307,15 +11433,51 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/cherry_platform": {
     "criteria": {
       "has_slab": "2025-03-05 02:35:09 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-05 03:22:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/cherry_banister": {
     "criteria": {
       "has_item": "2025-03-05 02:35:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-03-05 03:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
     },
     "done": true
   },
@@ -11343,6 +11505,30 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/acacia_palisade": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-03-05 02:13:25 +0000"
@@ -11355,9 +11541,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_table": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
     },
     "done": true
   },
@@ -11373,15 +11583,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/ender_hand": {
     "criteria": {
       "has_alt_item": "2025-03-05 02:03:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
     },
     "done": true
   },
@@ -11415,6 +11643,30 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_post": {
+    "criteria": {
+      "has_acacia_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
@@ -11439,6 +11691,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/acacia_seat": {
+    "criteria": {
+      "has_plank": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/cherry_palisade": {
     "criteria": {
       "has_log": "2025-03-05 02:32:34 +0000"
@@ -11454,6 +11712,12 @@
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-03-05 03:22:09 +0000"
     },
     "done": true
   },
@@ -11475,9 +11739,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-03-05 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_support": {
+    "criteria": {
+      "has_plank": "2025-03-05 03:20:34 +0000"
     },
     "done": true
   },
@@ -11493,6 +11775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:20:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
@@ -11505,9 +11793,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/cherry_drawer": {
     "criteria": {
       "has_slab": "2025-03-05 02:35:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-05 03:22:09 +0000"
     },
     "done": true
   },
@@ -11520,6 +11826,18 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-05 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-05 03:19:06 +0000"
     },
     "done": true
   },
@@ -11550,6 +11868,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-05 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-03-05 03:19:06 +0000"
     },
     "done": true
   },

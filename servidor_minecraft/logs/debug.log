@@ -13998,3 +13998,60 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 03:12:35.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Mar2025 03:12:35.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Mar2025 03:15:30.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [A Villager's Way of Life]
+[05Mar2025 03:17:35.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 03:17:35.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 03:18:44.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2446.500000, 74.500000, -2345.500000]
+[05Mar2025 03:19:02.886] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2511.72, y=84.00, z=-2378.92], dimensionLocationPath overworld
+[05Mar2025 03:19:02.886] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2511.72, y=84.00, z=-2378.92] in list []
+[05Mar2025 03:19:07.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has reached the goal [Flowers of the Savanna]
+[05Mar2025 03:19:55.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[05Mar2025 03:19:55.727] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05Mar2025 03:19:55.727] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 2, server=907960553, client=907960553
+[05Mar2025 03:19:55.727] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05Mar2025 03:19:55.727] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 5, server=-1505582869, client=-1505582869
+[05Mar2025 03:19:55.727] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05Mar2025 03:19:55.727] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 1, server=-343718522, client=-343718522
+[05Mar2025 03:19:55.727] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05Mar2025 03:19:55.727] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 4, server=931614316, client=931614316
+[05Mar2025 03:20:03.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2401.64, y=61.00, z=-1587.28]
+[05Mar2025 03:20:04.827] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2401.77, y=61.36, z=-1587.53], dimensionLocationPath overworld
+[05Mar2025 03:20:04.827] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2401.77, y=61.36, z=-1587.53] in list []
+[05Mar2025 03:22:35.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 03:22:35.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 03:22:36.529] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2429.28, y=61.15, z=-1588.68]
+[05Mar2025 03:22:42.223] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2428.89, y=62.82, z=-1590.33], dimensionLocationPath overworld
+[05Mar2025 03:22:42.224] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2428.89, y=62.82, z=-1590.33] in list []
+[05Mar2025 03:22:42.975] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2428.42, y=61.23, z=-1588.41]
+[05Mar2025 03:22:45.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2423.98, y=62.61, z=-1580.97], dimensionLocationPath overworld
+[05Mar2025 03:22:45.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2423.98, y=62.61, z=-1580.97] in list []
+[05Mar2025 03:22:47.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2422.54, y=62.51, z=-1580.38]
+[05Mar2025 03:22:48.873] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2418.78, y=62.68, z=-1581.59], dimensionLocationPath overworld
+[05Mar2025 03:22:48.873] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2418.78, y=62.68, z=-1581.59] in list []
+[05Mar2025 03:22:49.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2417.19, y=60.90, z=-1581.51]
+[05Mar2025 03:22:50.431] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2416.76, y=62.75, z=-1582.71], dimensionLocationPath overworld
+[05Mar2025 03:22:50.431] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2416.76, y=62.75, z=-1582.71] in list []
+[05Mar2025 03:23:23.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [King] to ELMACHAKITO]
+[05Mar2025 03:23:47.937] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundChessStatePacket
+[05Mar2025 03:23:50.623] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundChessStatePacket
+[05Mar2025 03:23:52.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2418, y=65, z=-1546} BlockPos{x=-2413, y=66, z=-1544}
+[05Mar2025 03:24:13.031] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2432.69, y=61.15, z=-1586.73]
+[05Mar2025 03:24:14.075] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2434.83, y=61.43, z=-1588.27], dimensionLocationPath overworld
+[05Mar2025 03:24:14.075] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2434.83, y=61.43, z=-1588.27] in list []
+[05Mar2025 03:24:15.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2433.74, y=61.39, z=-1587.43]
+[05Mar2025 03:24:21.626] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundChessStatePacket
+[05Mar2025 03:24:21.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2416.68, y=62.65, z=-1582.15], dimensionLocationPath overworld
+[05Mar2025 03:24:21.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FilthyDread'/648, l='ServerLevel[world]', x=-2416.68, y=62.65, z=-1582.15] in list []
+[05Mar2025 03:24:27.754] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundChessStatePacket
+[05Mar2025 03:24:30.279] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundChessStatePacket
+[05Mar2025 03:24:33.023] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundChessStatePacket
+[05Mar2025 03:24:36.779] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundChessStatePacket
+[05Mar2025 03:24:39.535] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundChessStatePacket
+[05Mar2025 03:25:39.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2446.500000, 74.500000, -2345.500000]
+[05Mar2025 03:25:39.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved too quickly! -0.3388423767864879,-10.542263135907547,0.9259398475267062
+[05Mar2025 03:26:18.372] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Mar2025 03:26:21.872] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Mar2025 03:26:34.408] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/203294, l='ServerLevel[world]', x=-2507.49, y=84.37, z=-2381.52], dimensionLocationPath overworld
+[05Mar2025 03:26:34.408] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/203294, l='ServerLevel[world]', x=-2507.49, y=84.37, z=-2381.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@288]
+[05Mar2025 03:26:34.908] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/203294, l='ServerLevel[world]', x=-2507.62, y=84.12, z=-2382.34, removed=DISCARDED]
+[05Mar2025 03:26:46.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to 109.500000, 90.500000, -39.500000]
+[05Mar2025 03:26:52.265] [Worker-Main-1/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
