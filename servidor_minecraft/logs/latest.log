@@ -3456,3 +3456,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 02:02:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Bottle o' Enchanting] to ELMACHAKITO]
 [05Mar2025 02:02:27.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Bottle o' Enchanting] to ELMACHAKITO]
 [05Mar2025 02:02:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Eye of Ender] to ELMACHAKITO]
+[05Mar2025 02:06:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[05Mar2025 02:07:44.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Zombie Horse]
+[05Mar2025 02:09:17.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Zombie Horse]
+[05Mar2025 02:10:01.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved wrongly!
+[05Mar2025 02:10:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Hunt and Gather]
+[05Mar2025 02:10:58.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -3367.500000, 111.500000, -2982.500000]
+[05Mar2025 02:10:58.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3898ms or 77 ticks behind
+[05Mar2025 02:13:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [A Seedy Place]
+[05Mar2025 02:14:32.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
