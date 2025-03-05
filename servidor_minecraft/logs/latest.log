@@ -3453,3 +3453,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 01:49:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread joined the game
 [05Mar2025 01:49:37.541] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
 [05Mar2025 01:52:33.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> tank
+[05Mar2025 02:02:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Bottle o' Enchanting] to ELMACHAKITO]
+[05Mar2025 02:02:27.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Bottle o' Enchanting] to ELMACHAKITO]
+[05Mar2025 02:02:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Eye of Ender] to ELMACHAKITO]

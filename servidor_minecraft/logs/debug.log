@@ -11902,3 +11902,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 01:52:31.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Mar2025 01:52:31.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Mar2025 01:52:33.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> tank
+[05Mar2025 01:57:31.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 01:57:31.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 02:02:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Bottle o' Enchanting] to ELMACHAKITO]
+[05Mar2025 02:02:27.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Bottle o' Enchanting] to ELMACHAKITO]
+[05Mar2025 02:02:31.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 02:02:31.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 02:02:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 2 [Eye of Ender] to ELMACHAKITO]
+[05Mar2025 02:05:41.308] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/49766, l='ServerLevel[world]', x=-2388.68, y=49.41, z=-1581.66], dimensionLocationPath overworld
+[05Mar2025 02:05:41.308] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/49766, l='ServerLevel[world]', x=-2388.68, y=49.41, z=-1581.66] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@288]
+[05Mar2025 02:05:41.808] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/49766, l='ServerLevel[world]', x=-2388.69, y=49.16, z=-1581.96, removed=DISCARDED]
