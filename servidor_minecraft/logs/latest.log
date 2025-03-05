@@ -3491,3 +3491,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 03:29:05.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
 [05Mar2025 03:29:09.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
 [05Mar2025 03:30:17.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2420, y=61, z=-1609} BlockPos{x=-2420, y=62, z=-1609}
+[05Mar2025 03:38:46.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2430, y=68, z=-1586} BlockPos{x=-2387, y=52, z=-1590}
+[05Mar2025 03:39:02.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2387, y=53, z=-1590} BlockPos{x=-2388, y=52, z=-1591}
+[05Mar2025 03:46:20.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread moved too quickly! 8.95429990378534,-0.07544406518948676,5.005690248430938
+[05Mar2025 03:46:35.458] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[05Mar2025 03:46:37.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[05Mar2025 03:46:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[05Mar2025 03:46:37.636] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Mar2025 03:46:40.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.146.63.2:39587] logged in with entity id 224827 at (-2386.8533624685065, 63.87009692826185, -1598.824416712142)
+[05Mar2025 03:46:40.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[05Mar2025 03:46:40.722] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
